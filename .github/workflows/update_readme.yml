@@ -1,42 +1,45 @@
-name: Aggiorna README con Fumetto
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Esecuzione ogni giorno a mezzanotte UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # This runs every day at midnight UTC
+  workflow_dispatch:  # This allows you to manually trigger the workflow
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.ACTIONS_PAT }}
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.8'  # Adjust the version if necessary
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
-          python -m pip install requests
+          python -m pip install --upgrade pip
+          # Add any other dependencies you might need here
 
-      - name: Esegui script di aggiornamento
-        run: python update_readme.py
-
-      - name: Commit e push delle modifiche
-        env:
-          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
+      - name: Fetch Comic and Update README
         run: |
-          git config --global user.name 'Lucia'
-          git config --global user.email 'ldomenichelli2@example.com'
+          python update_readme.py || { echo 'Script failed'; exit 1; }
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'ldomenichelli'
+          git config --global user.email 'ldomenichelli2@gmail.com'  # Use your GitHub email
+
+      - name: Pull Latest Changes
+        run: git pull origin main  # Ensure you pull the latest changes before pushing
+
+      - name: Commit and Push Changes
+        run: |
           git add README.md
-          git commit -m "Aggiornamento README con fumetto giornaliero" || echo "No changes to commit"
-          
-          # Pull latest changes before pushing, ensuring a smooth integration
-          git pull --rebase origin main || true
+          git commit -m "Updated README with comic" || echo "No changes to commit"
+          git push "https://${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git"
+
           
           # Push the changes
           git push "https://${ACTIONS_PAT}@github.com/ldomenichelli/ldomenichelli.git"
