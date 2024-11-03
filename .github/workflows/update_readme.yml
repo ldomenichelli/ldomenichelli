@@ -1,8 +1,8 @@
-name: Update README with comic
+name: Update README with comic.
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # at midnight
+    - cron: "0 0 * * *"  at midnight 
   workflow_dispatch:
 
 jobs:
@@ -21,13 +21,16 @@ jobs:
         run: |
           python -m pip install requests
 
-      - name: Execute
+      - name: execute python script 
         run: python update_readme.py
 
-      - name: Commit and push
+      - name: Commit e push delle modifiche
+        env:
+          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --global user.name 'Lucia'
           git config --global user.email 'ldomenichelli2@gmail.com'
           git add README.md
-          git commit -m "Updated README with comic"
-          git push
+          git commit -m "Aggiornamento README con fumetto giornaliero"
+          git push "https://${ACTIONS_PAT}@github.com/${{ github.repository }}.git"
+
