@@ -1,7 +1,7 @@
 <div align="center">
 <pre>Hello World!
   I'm Lucia, PhD student in AI @ University of Pisa!</pre>
-  <pre> There is not much here for now! Come back later!</pre>
+  <pre> There is not much here for now ... come back later!</pre>
 
 
 <br><br>
