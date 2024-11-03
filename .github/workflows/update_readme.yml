@@ -24,7 +24,7 @@ jobs:
       - name: execute python script 
         run: python update_readme.py
 
-      - name: Commit e push delle modifiche
+      - name: Commit and push
         env:
           ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
