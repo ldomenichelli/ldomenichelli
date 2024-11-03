@@ -1,0 +1,33 @@
+name: Update README with comic
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install requests
+
+      - name: Execute
+        run: python update_readme.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'Lucia'
+          git config --global user.email 'ldomenichelli2@gmail.com'
+          git add README.md
+          git commit -m "Updated README with comic"
+          git push
