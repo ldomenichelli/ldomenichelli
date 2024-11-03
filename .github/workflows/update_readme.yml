@@ -2,7 +2,7 @@ name: Aggiorna README con Fumetto
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"  # Esecuzione ogni giorno a mezzanotte UTC
   workflow_dispatch:
 
 jobs:
@@ -31,14 +31,12 @@ jobs:
           ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --global user.name 'Lucia'
-          git config --global user.email 'tuoemail@example.com'
+          git config --global user.email 'ldomenichelli2@example.com'
           git add README.md
           git commit -m "Aggiornamento README con fumetto giornaliero" || echo "No changes to commit"
           
           # Pull latest changes before pushing, ensuring a smooth integration
           git pull --rebase origin main || true
+          
+          # Push the changes
           git push "https://${ACTIONS_PAT}@github.com/ldomenichelli/ldomenichelli.git"
-
-          # Pull latest changes before pushing
-          git pull --rebase origin main
-          git push "https://${ACTIONS_PAT}@github.com/${{ github.repository }}.git"
