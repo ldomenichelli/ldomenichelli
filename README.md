@@ -1,3 +1,9 @@
+
+<div align="center">
+  <h3>Fumetto del Giorno</h3>
+  <img src="https://imgs.xkcd.com/comics/demons.png" alt="Demons" width="400"/>
+  <p><em>Demons</em></p>
+</div>
 <div align="center">
 <pre>Hello World!
   I'm Lucia, PhD student in AI @ University of Pisa.</pre>
