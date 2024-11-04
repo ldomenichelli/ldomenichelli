@@ -18,24 +18,20 @@ jobs:
         with:
           python-version: '3.8'  # Specify Python version explicitly
 
-      - name: Create Virtual Environment and Install Dependencies
+      - name: Upgrade pip and Install Dependencies
         run: |
-          python -m venv venv  # Create virtual environment
-          source venv/bin/activate  # Activate virtual environment
-          python -m pip install --upgrade pip  # Upgrade pip
-          python -m pip install -r requirements.txt  # Install dependencies from requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install requests
+          python -m pip list  # List all installed packages for confirmation
 
-      - name: Verify Installation and Python Path
+      - name: Verify Installation
         run: |
-          source venv/bin/activate  # Activate virtual environment
-          python -m pip show requests  # Verifies requests is installed
-          which python                # Check the Python path
-          python --version            # Confirm Python version
+          python -c "import requests; print('Requests imported successfully')"
+          which python  # Check Python path
+          python --version  # Confirm Python version
 
       - name: Fetch Comic and Update README
-        run: |
-          source venv/bin/activate  # Activate virtual environment
-          python update_readme.py || { echo 'Script failed'; exit 1; }
+        run: python update_readme.py || { echo 'Script failed'; exit 1; }
 
       - name: Configure Git
         run: |
