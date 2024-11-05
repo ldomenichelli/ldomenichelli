@@ -22,16 +22,14 @@ def update_readme(comic):
     with open("README.md", "r") as file:
         readme_content = file.readlines()
 
-    # Create the comic section to add
     comic_section = f"""
 <div align="center">
-  <h3>Fumetto del Giorno</h3>
+  <h3>Daily comic!/h3>
   <img src="{comic_img_url}" alt="{comic_title}" width="400"/>
   <p><em>{comic_title}</em></p>
 </div>
 """
 
-    # Write the new content to README
     with open("README.md", "w") as file:
         file.write(comic_section + "".join(readme_content))
 
