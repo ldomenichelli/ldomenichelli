@@ -24,7 +24,7 @@ def update_readme(comic):
 
     comic_section = f"""
 <div align="center">
-  <h3>Daily comic!/h3>
+  <h3>Daily comic!</h3>
   <img src="{comic_img_url}" alt="{comic_title}" width="400"/>
   <p><em>{comic_title}</em></p>
 </div>
