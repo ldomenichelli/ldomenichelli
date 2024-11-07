@@ -1,9 +1,4 @@
 
-<div align="center">
-  <h3>Daily comic!/h3>
-  <img src="https://imgs.xkcd.com/comics/probabilistic_uncertainty.png" alt="Probabilistic Uncertainty" width="400"/>
-  <p><em>Probabilistic Uncertainty</em></p>
-</div>
 
 <div align="center">
 
