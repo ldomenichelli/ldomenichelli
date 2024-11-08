@@ -30,8 +30,9 @@ def update_readme(comic):
 </div>
 """
 
+    # Corrected line: add the missing parenthesis
     with open("README.md", "w") as file:
-        file.write( "".join(readme_content + comic_section )
+        file.write("".join(readme_content) + comic_section)
 
 def main():
     comic = fetch_comic()  # Fetch the comic
@@ -43,3 +44,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
