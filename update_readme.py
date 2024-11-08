@@ -31,7 +31,7 @@ def update_readme(comic):
 """
 
     with open("README.md", "w") as file:
-        file.write( "".join(readme_content + comic_section +)
+        file.write( "".join(readme_content + comic_section )
 
 def main():
     comic = fetch_comic()  # Fetch the comic
