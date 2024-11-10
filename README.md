@@ -18,12 +18,6 @@ In the meanwhile, you can read a comic :)
 
 </div>
 
-<div align="center">
-  <h3>Daily comic!</h3>
-  <img src="https://imgs.xkcd.com/comics/proterozoic_rocks.png" alt="Proterozoic Rocks" width="400"/>
-  <p><em>Proterozoic Rocks</em></p>
-</div>
-
 
 <div align="center">
   <h3>Daily comic!</h3>
