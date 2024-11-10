@@ -24,3 +24,9 @@ In the meanwhile, you can read a comic :)
   <p><em>Proterozoic Rocks</em></p>
 </div>
 
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/number_shortage.png" alt="Number Shortage" width="400"/>
+  <p><em>Number Shortage</em></p>
+</div>
