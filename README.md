@@ -31,3 +31,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="Europa Clipper" width="400"/>
   <p><em>Europa Clipper</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="Europa Clipper" width="400"/>
+  <p><em>Europa Clipper</em></p>
+</div>
