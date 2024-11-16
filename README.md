@@ -21,25 +21,6 @@ In the meanwhile, you can read a comic :)
 
 <div align="center">
   <h3>Daily comic!</h3>
-  <img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" alt="Geometriphylogenetics" width="400"/>
-  <p><em>Geometriphylogenetics</em></p>
-</div>
-
-
-<div align="center">
-  <h3>Daily comic!</h3>
-  <img src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="Europa Clipper" width="400"/>
-  <p><em>Europa Clipper</em></p>
-</div>
-
-<div align="center">
-  <h3>Daily comic!</h3>
-  <img src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="Europa Clipper" width="400"/>
-  <p><em>Europa Clipper</em></p>
-</div>
-
-<div align="center">
-  <h3>Daily comic!</h3>
   <img src="https://imgs.xkcd.com/comics/the_future_of_orion.png" alt="The Future of Orion" width="400"/>
   <p><em>The Future of Orion</em></p>
 </div>
