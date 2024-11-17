@@ -24,3 +24,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/the_future_of_orion.png" alt="The Future of Orion" width="400"/>
   <p><em>The Future of Orion</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/the_future_of_orion.png" alt="The Future of Orion" width="400"/>
+  <p><em>The Future of Orion</em></p>
+</div>
