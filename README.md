@@ -48,3 +48,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/kedging_cannon.png" alt="Kedging Cannon" width="400"/>
   <p><em>Kedging Cannon</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/arizona_chess.png" alt="Arizona Chess" width="400"/>
+  <p><em>Arizona Chess</em></p>
+</div>
