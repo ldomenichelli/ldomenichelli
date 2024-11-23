@@ -60,3 +60,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/arizona_chess.png" alt="Arizona Chess" width="400"/>
   <p><em>Arizona Chess</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" alt="D&D Combinatorics" width="400"/>
+  <p><em>D&D Combinatorics</em></p>
+</div>
