@@ -78,3 +78,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" alt="D&D Combinatorics" width="400"/>
   <p><em>D&D Combinatorics</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/cold_air.png" alt="Cold Air" width="400"/>
+  <p><em>Cold Air</em></p>
+</div>
