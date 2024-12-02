@@ -25,3 +25,9 @@ In the meanwhile, you can read a comic :)
   <p><em>The Future of Orion</em></p>
 </div>
 
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/second_stage.png" alt="Second Stage" width="400"/>
+  <p><em>Second Stage</em></p>
+</div>
