@@ -43,3 +43,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" alt="Advent Calendar Advent Calendar" width="400"/>
   <p><em>Advent Calendar Advent Calendar</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" alt="Advent Calendar Advent Calendar" width="400"/>
+  <p><em>Advent Calendar Advent Calendar</em></p>
+</div>
