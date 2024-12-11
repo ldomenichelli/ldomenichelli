@@ -79,3 +79,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/seismologists.png" alt="Seismologists" width="400"/>
   <p><em>Seismologists</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/making_tea.png" alt="Making Tea" width="400"/>
+  <p><em>Making Tea</em></p>
+</div>
