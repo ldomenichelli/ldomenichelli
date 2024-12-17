@@ -115,3 +115,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/metar.png" alt="METAR" width="400"/>
   <p><em>METAR</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/phase_change.png" alt="Phase Change" width="400"/>
+  <p><em>Phase Change</em></p>
+</div>
