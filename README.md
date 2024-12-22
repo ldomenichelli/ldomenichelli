@@ -145,3 +145,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/linear_sort.png" alt="Linear Sort" width="400"/>
   <p><em>Linear Sort</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/exclusion_principle.png" alt="Exclusion Principle" width="400"/>
+  <p><em>Exclusion Principle</em></p>
+</div>
