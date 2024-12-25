@@ -163,3 +163,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/exclusion_principle.png" alt="Exclusion Principle" width="400"/>
   <p><em>Exclusion Principle</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/dnd_roll.png" alt="D&D Roll" width="400"/>
+  <p><em>D&D Roll</em></p>
+</div>
