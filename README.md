@@ -181,3 +181,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/sun_avoidance.png" alt="Sun Avoidance" width="400"/>
   <p><em>Sun Avoidance</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" width="400"/>
+  <p><em>Lasering Incidents</em></p>
+</div>
