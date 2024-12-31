@@ -199,3 +199,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" width="400"/>
   <p><em>Lasering Incidents</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" alt="Time Capsule Instructions" width="400"/>
+  <p><em>Time Capsule Instructions</em></p>
+</div>
