@@ -223,3 +223,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/skew_t_log_p.png" alt="Skew-T Log-P" width="400"/>
   <p><em>Skew-T Log-P</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/origami_black_hole.png" alt="Origami Black Hole" width="400"/>
+  <p><em>Origami Black Hole</em></p>
+</div>
