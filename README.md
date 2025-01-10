@@ -259,3 +259,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/features_of_adulthood.png" alt="Features of Adulthood" width="400"/>
   <p><em>Features of Adulthood</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/trimix.png" alt="Trimix" width="400"/>
+  <p><em>Trimix</em></p>
+</div>
