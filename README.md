@@ -295,3 +295,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/radon.png" alt="Radon" width="400"/>
   <p><em>Radon</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/uncanceled_units.png" alt="Uncanceled Units" width="400"/>
+  <p><em>Uncanceled Units</em></p>
+</div>
