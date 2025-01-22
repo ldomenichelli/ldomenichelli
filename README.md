@@ -331,3 +331,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/human_altitude.png" alt="Human Altitude" width="400"/>
   <p><em>Human Altitude</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/chemical_formulas.png" alt="Chemical Formulas" width="400"/>
+  <p><em>Chemical Formulas</em></p>
+</div>
