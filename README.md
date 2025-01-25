@@ -349,3 +349,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/unit_circle.png" alt="Unit Circle" width="400"/>
   <p><em>Unit Circle</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" alt="T. Rex Evolution" width="400"/>
+  <p><em>T. Rex Evolution</em></p>
+</div>
