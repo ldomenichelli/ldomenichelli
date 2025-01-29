@@ -38,3 +38,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/muons.png" alt="Muons" width="400"/>
   <p><em>Muons</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/muons.png" alt="Muons" width="400"/>
+  <p><em>Muons</em></p>
+</div>
