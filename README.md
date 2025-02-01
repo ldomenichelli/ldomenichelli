@@ -56,3 +56,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/humidifier_review.png" alt="Humidifier Review" width="400"/>
   <p><em>Humidifier Review</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/alphamove.png" alt="AlphaMove" width="400"/>
+  <p><em>AlphaMove</em></p>
+</div>
