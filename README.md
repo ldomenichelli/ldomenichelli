@@ -80,3 +80,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/alphamove.png" alt="AlphaMove" width="400"/>
   <p><em>AlphaMove</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/stromatolites.png" alt="Stromatolites" width="400"/>
+  <p><em>Stromatolites</em></p>
+</div>
