@@ -98,3 +98,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/rotary_tool.png" alt="Rotary Tool" width="400"/>
   <p><em>Rotary Tool</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/suspension_bridge.png" alt="Suspension Bridge" width="400"/>
+  <p><em>Suspension Bridge</em></p>
+</div>
