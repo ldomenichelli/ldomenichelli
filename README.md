@@ -116,3 +116,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/suspension_bridge.png" alt="Suspension Bridge" width="400"/>
   <p><em>Suspension Bridge</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/incoming_asteroid.png" alt="Incoming Asteroid" width="400"/>
+  <p><em>Incoming Asteroid</em></p>
+</div>
