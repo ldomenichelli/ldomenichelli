@@ -146,3 +146,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/atom.png" alt="Atom" width="400"/>
   <p><em>Atom</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/hardwood.png" alt="Hardwood" width="400"/>
+  <p><em>Hardwood</em></p>
+</div>
