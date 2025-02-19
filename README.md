@@ -164,3 +164,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/archive_request.png" alt="Archive Request" width="400"/>
   <p><em>Archive Request</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/archive_request.png" alt="Archive Request" width="400"/>
+  <p><em>Archive Request</em></p>
+</div>
