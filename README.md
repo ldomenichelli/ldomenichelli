@@ -194,3 +194,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/scream_cipher.png" alt="Scream Cipher" width="400"/>
   <p><em>Scream Cipher</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/scream_cipher.png" alt="Scream Cipher" width="400"/>
+  <p><em>Scream Cipher</em></p>
+</div>
