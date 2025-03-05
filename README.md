@@ -248,3 +248,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/tall_structures.png" alt="Tall Structures" width="400"/>
   <p><em>Tall Structures</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/tall_structures.png" alt="Tall Structures" width="400"/>
+  <p><em>Tall Structures</em></p>
+</div>
