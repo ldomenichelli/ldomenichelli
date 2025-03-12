@@ -290,3 +290,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/omniroll.png" alt="Omniroll" width="400"/>
   <p><em>Omniroll</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/water_balloons.png" alt="Water Balloons" width="400"/>
+  <p><em>Water Balloons</em></p>
+</div>
