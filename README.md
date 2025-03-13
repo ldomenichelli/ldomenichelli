@@ -296,3 +296,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/water_balloons.png" alt="Water Balloons" width="400"/>
   <p><em>Water Balloons</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/off_by_one.png" alt="Off By One" width="400"/>
+  <p><em>Off By One</em></p>
+</div>
