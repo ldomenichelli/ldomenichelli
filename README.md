@@ -344,3 +344,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/square_units.png" alt="Square Units" width="400"/>
   <p><em>Square Units</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/square_units.png" alt="Square Units" width="400"/>
+  <p><em>Square Units</em></p>
+</div>
