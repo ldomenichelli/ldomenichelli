@@ -368,3 +368,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/cosmic_distance_calibration.png" alt="Cosmic Distance Calibration" width="400"/>
   <p><em>Cosmic Distance Calibration</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/sawstart.png" alt="SawStart" width="400"/>
+  <p><em>SawStart</em></p>
+</div>
