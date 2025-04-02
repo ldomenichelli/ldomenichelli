@@ -416,3 +416,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/terror_bird.png" alt="Terror Bird" width="400"/>
   <p><em>Terror Bird</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/orogeny.png" alt="Orogeny" width="400"/>
+  <p><em>Orogeny</em></p>
+</div>
