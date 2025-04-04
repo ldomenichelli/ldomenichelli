@@ -428,3 +428,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/orogeny.png" alt="Orogeny" width="400"/>
   <p><em>Orogeny</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/decay_chain.png" alt="Decay Chain" width="400"/>
+  <p><em>Decay Chain</em></p>
+</div>
