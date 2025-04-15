@@ -494,3 +494,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/anachronym_challenge.png" alt="Anachronym Challenge" width="400"/>
   <p><em>Anachronym Challenge</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/anachronym_challenge.png" alt="Anachronym Challenge" width="400"/>
+  <p><em>Anachronym Challenge</em></p>
+</div>
