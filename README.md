@@ -506,3 +506,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/the_roads_both_taken.png" alt="The Roads Both Taken" width="400"/>
   <p><em>The Roads Both Taken</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/the_roads_both_taken.png" alt="The Roads Both Taken" width="400"/>
+  <p><em>The Roads Both Taken</em></p>
+</div>
