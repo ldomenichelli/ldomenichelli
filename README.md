@@ -548,3 +548,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/air_fact.png" alt="Air Fact" width="400"/>
   <p><em>Air Fact</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/tennis_balls.png" alt="Tennis Balls" width="400"/>
+  <p><em>Tennis Balls</em></p>
+</div>
