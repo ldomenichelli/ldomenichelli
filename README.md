@@ -590,3 +590,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/chess_position.png" alt="Chess Position" width="400"/>
   <p><em>Chess Position</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/jupiter_core.png" alt="Jupiter Core" width="400"/>
+  <p><em>Jupiter Core</em></p>
+</div>
