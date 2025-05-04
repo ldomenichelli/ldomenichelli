@@ -608,3 +608,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" alt="Unstoppable Force and Immovable Object" width="400"/>
   <p><em>Unstoppable Force and Immovable Object</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" alt="Unstoppable Force and Immovable Object" width="400"/>
+  <p><em>Unstoppable Force and Immovable Object</em></p>
+</div>
