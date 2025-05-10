@@ -644,3 +644,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/globe_safety.png" alt="Globe Safety" width="400"/>
   <p><em>Globe Safety</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/pascals_law.png" alt="Pascal's Law" width="400"/>
+  <p><em>Pascal's Law</em></p>
+</div>
