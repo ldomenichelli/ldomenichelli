@@ -674,3 +674,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/deposition.png" alt="Deposition" width="400"/>
   <p><em>Deposition</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/modern.png" alt="Modern" width="400"/>
+  <p><em>Modern</em></p>
+</div>
