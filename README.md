@@ -704,3 +704,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/sail_physics.png" alt="Sail Physics" width="400"/>
   <p><em>Sail Physics</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/renormalization.png" alt="Renormalization" width="400"/>
+  <p><em>Renormalization</em></p>
+</div>
