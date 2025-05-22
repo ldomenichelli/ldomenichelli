@@ -716,3 +716,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/renormalization.png" alt="Renormalization" width="400"/>
   <p><em>Renormalization</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/bakers_units.png" alt="Baker's Units" width="400"/>
+  <p><em>Baker's Units</em></p>
+</div>
