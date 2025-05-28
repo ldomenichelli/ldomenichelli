@@ -752,3 +752,9 @@ In the meanwhile, you can read a comic :)
   <img src="https://imgs.xkcd.com/comics/drafting.png" alt="Drafting" width="400"/>
   <p><em>Drafting</em></p>
 </div>
+
+<div align="center">
+  <h3>Daily comic!</h3>
+  <img src="https://imgs.xkcd.com/comics/mass_spec.png" alt="Mass Spec" width="400"/>
+  <p><em>Mass Spec</em></p>
+</div>
