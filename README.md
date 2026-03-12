@@ -22,12 +22,7 @@ This profile is where I share research code, experiments, and side projects.
 - Natural language processing
 - Representation learning
 - Interpretability and evaluation
-- Intrinsic dimensionality
 
-### Currently
-- Building research prototypes
-- Reading papers and shipping small tools
-- Organizing code for reproducible experiments
 
 ---
 
