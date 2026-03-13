@@ -25,8 +25,9 @@ This profile is where I share research code, experiments, and side projects.
 
 
 ---
-
+<!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
   <p><em>Comic will appear here after the workflow runs.</em></p>
 </div>
+<!-- DAILY-COMIC-END -->
