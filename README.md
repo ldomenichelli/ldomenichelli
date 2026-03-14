@@ -28,6 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <p><em>Comic will appear here after the workflow runs.</em></p>
+  <a href="https://xkcd.com/2769/">
+    <img src="https://imgs.xkcd.com/comics/overlapping_circles.png" alt="Overlapping Circles" width="520" />
+  </a>
+  <p><strong>Overlapping Circles</strong> · xkcd #2769 · 2023-04-28</p>
+  <p><sub>&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
