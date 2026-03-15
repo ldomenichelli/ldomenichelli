@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2769/">
-    <img src="https://imgs.xkcd.com/comics/overlapping_circles.png" alt="Overlapping Circles" width="520" />
+  <a href="https://xkcd.com/2770/">
+    <img src="https://imgs.xkcd.com/comics/tapetum_lucidum.png" alt="Tapetum Lucidum" width="520" />
   </a>
-  <p><strong>Overlapping Circles</strong> · xkcd #2769 · 2023-04-28</p>
-  <p><sub>&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality</sub></p>
+  <p><strong>Tapetum Lucidum</strong> · xkcd #2770 · 2023-05-01</p>
+  <p><sub>Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
