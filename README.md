@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2770/">
-    <img src="https://imgs.xkcd.com/comics/tapetum_lucidum.png" alt="Tapetum Lucidum" width="520" />
+  <a href="https://xkcd.com/2771/">
+    <img src="https://imgs.xkcd.com/comics/college_knowledge.png" alt="College Knowledge" width="520" />
   </a>
-  <p><strong>Tapetum Lucidum</strong> · xkcd #2770 · 2023-05-01</p>
-  <p><sub>Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</sub></p>
+  <p><strong>College Knowledge</strong> · xkcd #2771 · 2023-05-03</p>
+  <p><sub>&#x27;Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!&#x27; --common playground taunt</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
