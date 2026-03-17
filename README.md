@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2771/">
-    <img src="https://imgs.xkcd.com/comics/college_knowledge.png" alt="College Knowledge" width="520" />
+  <a href="https://xkcd.com/2543/">
+    <img src="https://imgs.xkcd.com/comics/never_told_anyone.png" alt="Never Told Anyone" width="520" />
   </a>
-  <p><strong>College Knowledge</strong> · xkcd #2771 · 2023-05-03</p>
-  <p><sub>&#x27;Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!&#x27; --common playground taunt</sub></p>
+  <p><strong>Never Told Anyone</strong> · xkcd #2543 · 2021-11-17</p>
+  <p><sub>Even if you said you were an employee of the website, if you asked for my password, I&#x27;d tell you.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
