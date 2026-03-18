@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2543/">
-    <img src="https://imgs.xkcd.com/comics/never_told_anyone.png" alt="Never Told Anyone" width="520" />
+  <a href="https://xkcd.com/2544/">
+    <img src="https://imgs.xkcd.com/comics/heart_stopping_texts.png" alt="Heart-Stopping Texts" width="520" />
   </a>
-  <p><strong>Never Told Anyone</strong> · xkcd #2543 · 2021-11-17</p>
-  <p><sub>Even if you said you were an employee of the website, if you asked for my password, I&#x27;d tell you.</sub></p>
+  <p><strong>Heart-Stopping Texts</strong> · xkcd #2544 · 2021-11-19</p>
+  <p><sub>Was this your car? [looping &#x27;image loading&#x27; animation]</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
