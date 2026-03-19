@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2544/">
-    <img src="https://imgs.xkcd.com/comics/heart_stopping_texts.png" alt="Heart-Stopping Texts" width="520" />
+  <a href="https://xkcd.com/2316/">
+    <img src="https://imgs.xkcd.com/comics/hair_growth_rate.png" alt="Hair Growth Rate" width="520" />
   </a>
-  <p><strong>Heart-Stopping Texts</strong> · xkcd #2544 · 2021-11-19</p>
-  <p><sub>Was this your car? [looping &#x27;image loading&#x27; animation]</sub></p>
+  <p><strong>Hair Growth Rate</strong> · xkcd #2316 · 2020-06-05</p>
+  <p><sub>Hourly haircuts would be annoying, but they&#x27;d be easier to do yourself, since you&#x27;d have adjacent hairs as a guide. Growing it out would be a huge pain, though.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
