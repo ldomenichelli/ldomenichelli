@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2316/">
-    <img src="https://imgs.xkcd.com/comics/hair_growth_rate.png" alt="Hair Growth Rate" width="520" />
+  <a href="https://xkcd.com/2317/">
+    <img src="https://imgs.xkcd.com/comics/pinouts.png" alt="Pinouts" width="520" />
   </a>
-  <p><strong>Hair Growth Rate</strong> · xkcd #2316 · 2020-06-05</p>
-  <p><sub>Hourly haircuts would be annoying, but they&#x27;d be easier to do yourself, since you&#x27;d have adjacent hairs as a guide. Growing it out would be a huge pain, though.</sub></p>
+  <p><strong>Pinouts</strong> · xkcd #2317 · 2020-06-08</p>
+  <p><sub>The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
