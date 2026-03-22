@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2089/">
-    <img src="https://imgs.xkcd.com/comics/christmas_eve_eve.png" alt="Christmas Eve Eve" width="520" />
+  <a href="https://xkcd.com/2090/">
+    <img src="https://imgs.xkcd.com/comics/feathered_dinosaur_venn_diagram.png" alt="Feathered Dinosaur Venn Diagram" width="520" />
   </a>
-  <p><strong>Christmas Eve Eve</strong> · xkcd #2089 · 2018-12-24</p>
-  <p><sub>It turns out that saying &quot;Oh, so THAT&#x27;S why they call it Boxing Day&quot; is a good way to get punched a second time.</sub></p>
+  <p><strong>Feathered Dinosaur Venn Diagram</strong> · xkcd #2090 · 2018-12-26</p>
+  <p><sub>My pet theory is that in real life, the kid at the beginning of Jurassic Park who made fun of the &#x27;six-foot turkey&#x27; never got a talking-to from Dr. Grant, and grew up to produce several of the movie&#x27;s sequels.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
