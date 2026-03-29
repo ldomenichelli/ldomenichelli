@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1409/">
-    <img src="https://imgs.xkcd.com/comics/query.png" alt="Query" width="520" />
+  <a href="https://xkcd.com/1410/">
+    <img src="https://imgs.xkcd.com/comics/california.png" alt="California" width="520" />
   </a>
-  <p><strong>Query</strong> · xkcd #1409 · 2014-08-18</p>
-  <p><sub>SELECT * FROM GHOSTS</sub></p>
+  <p><strong>California</strong> · xkcd #1410 · 2014-08-20</p>
+  <p><sub>58% of the state has gone into plaid.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
