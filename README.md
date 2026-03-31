@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1411/">
-    <img src="https://imgs.xkcd.com/comics/loop.png" alt="Loop" width="520" />
+  <a href="https://xkcd.com/1183/">
+    <img src="https://imgs.xkcd.com/comics/rose_petals.png" alt="Rose Petals" width="520" />
   </a>
-  <p><strong>Loop</strong> · xkcd #1411 · 2014-08-22</p>
-  <p><sub>Ugh, today&#x27;s kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.</sub></p>
+  <p><strong>Rose Petals</strong> · xkcd #1183 · 2013-03-08</p>
+  <p><sub>Joke&#x27;s on you--the Roomba and I had a LOVELY evening.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
