@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1183/">
-    <img src="https://imgs.xkcd.com/comics/rose_petals.png" alt="Rose Petals" width="520" />
+  <a href="https://xkcd.com/1184/">
+    <img src="https://imgs.xkcd.com/comics/circumference_formula.png" alt="Circumference Formula" width="520" />
   </a>
-  <p><strong>Rose Petals</strong> · xkcd #1183 · 2013-03-08</p>
-  <p><sub>Joke&#x27;s on you--the Roomba and I had a LOVELY evening.</sub></p>
+  <p><strong>Circumference Formula</strong> · xkcd #1184 · 2013-03-11</p>
+  <p><sub>Assume r&#x27; refers to the radius of Earth Prime, and r&#x27;&#x27; means radius in inches.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
