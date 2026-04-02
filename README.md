@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1184/">
-    <img src="https://imgs.xkcd.com/comics/circumference_formula.png" alt="Circumference Formula" width="520" />
+  <a href="https://xkcd.com/956/">
+    <img src="https://imgs.xkcd.com/comics/sharing.png" alt="Sharing" width="520" />
   </a>
-  <p><strong>Circumference Formula</strong> · xkcd #1184 · 2013-03-11</p>
-  <p><sub>Assume r&#x27; refers to the radius of Earth Prime, and r&#x27;&#x27; means radius in inches.</sub></p>
+  <p><strong>Sharing</strong> · xkcd #956 · 2011-09-26</p>
+  <p><sub>In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
