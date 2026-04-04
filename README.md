@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/957/">
-    <img src="https://imgs.xkcd.com/comics/development.png" alt="Development" width="520" />
+  <a href="https://xkcd.com/729/">
+    <img src="https://imgs.xkcd.com/comics/laser_pointer.png" alt="Laser Pointer" width="520" />
   </a>
-  <p><strong>Development</strong> · xkcd #957 · 2011-09-28</p>
-  <p><sub>Funding was quickly restored to the NHC and the APA was taken back off hurricane forecast duty.</sub></p>
+  <p><strong>Laser Pointer</strong> · xkcd #729 · 2010-04-19</p>
+  <p><sub>It&#x27;s a lasing cat-vity!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
