@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/731/">
-    <img src="https://imgs.xkcd.com/comics/desert_island.png" alt="Desert Island" width="520" />
+  <a href="https://xkcd.com/503/">
+    <img src="https://imgs.xkcd.com/comics/terminology.png" alt="Terminology" width="520" />
   </a>
-  <p><strong>Desert Island</strong> · xkcd #731 · 2010-04-23</p>
-  <p><sub>Telescopes and bathyscaphes and sonar probes of Scottish lakes, Tacoma Narrows bridge collapse explained with abstract phase-space maps, some x-ray slides, a music score, Minard&#x27;s Napoleonic war: the most exciting new frontier is charting what&#x27;s already here.</sub></p>
+  <p><strong>Terminology</strong> · xkcd #503 · 2008-11-12</p>
+  <p><sub>Also, is it just me, or do Japan and New Zealand look suspiciously similar?  Has anyone seen them at a party together?</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
