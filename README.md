@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/49/">
-    <img src="https://imgs.xkcd.com/comics/want.jpg" alt="Want" width="520" />
+  <a href="https://xkcd.com/50/">
+    <img src="https://imgs.xkcd.com/comics/penny_arcade.jpg" alt="Penny Arcade" width="520" />
   </a>
-  <p><strong>Want</strong> · xkcd #49 · 2006-01-14</p>
-  <p><sub>Well, she&#x27;s pretty hot.</sub></p>
+  <p><strong>Penny Arcade</strong> · xkcd #50 · 2006-01-17</p>
+  <p><sub>Of course, Penny Arcade has already mocked themselves for this.  They don&#x27;t care.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
