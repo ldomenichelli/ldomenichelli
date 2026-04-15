@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3054/">
-    <img src="https://imgs.xkcd.com/comics/scream_cipher.png" alt="Scream Cipher" width="520" />
+  <a href="https://xkcd.com/3055/">
+    <img src="https://imgs.xkcd.com/comics/giants.png" alt="Giants" width="520" />
   </a>
-  <p><strong>Scream Cipher</strong> · xkcd #3054 · 2025-02-21</p>
-  <p><sub>AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</sub></p>
+  <p><strong>Giants</strong> · xkcd #3055 · 2025-02-24</p>
+  <p><sub>I can&#x27;t get over the suspicion that all those viral pictures are photoshopped and &#x27;Flemish&#x27; belongs in the lower right circle.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
