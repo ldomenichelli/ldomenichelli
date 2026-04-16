@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3055/">
-    <img src="https://imgs.xkcd.com/comics/giants.png" alt="Giants" width="520" />
+  <a href="https://xkcd.com/2828/">
+    <img src="https://imgs.xkcd.com/comics/exoplanet_observation.png" alt="Exoplanet Observation" width="520" />
   </a>
-  <p><strong>Giants</strong> · xkcd #3055 · 2025-02-24</p>
-  <p><sub>I can&#x27;t get over the suspicion that all those viral pictures are photoshopped and &#x27;Flemish&#x27; belongs in the lower right circle.</sub></p>
+  <p><strong>Exoplanet Observation</strong> · xkcd #2828 · 2023-09-13</p>
+  <p><sub>NASA prefers to say that their rovers are &#x27;looking for signs of past life on Mars&#x27; and not &#x27;ghost hunting.&#x27;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
