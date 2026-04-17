@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2828/">
-    <img src="https://imgs.xkcd.com/comics/exoplanet_observation.png" alt="Exoplanet Observation" width="520" />
+  <a href="https://xkcd.com/2829/">
+    <img src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" alt="Iceberg Efficiency" width="520" />
   </a>
-  <p><strong>Exoplanet Observation</strong> · xkcd #2828 · 2023-09-13</p>
-  <p><sub>NASA prefers to say that their rovers are &#x27;looking for signs of past life on Mars&#x27; and not &#x27;ghost hunting.&#x27;</sub></p>
+  <p><strong>Iceberg Efficiency</strong> · xkcd #2829 · 2023-09-15</p>
+  <p><sub>Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
