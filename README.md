@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2829/">
-    <img src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" alt="Iceberg Efficiency" width="520" />
+  <a href="https://xkcd.com/2602/">
+    <img src="https://imgs.xkcd.com/comics/linguistics_degree.png" alt="Linguistics Degree" width="520" />
   </a>
-  <p><strong>Iceberg Efficiency</strong> · xkcd #2829 · 2023-09-15</p>
-  <p><sub>Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.</sub></p>
+  <p><strong>Linguistics Degree</strong> · xkcd #2602 · 2022-04-04</p>
+  <p><sub>You&#x27;d think &#x27;linguistics&#x27; would go to someone important in the field, but it&#x27;s actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
