@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2602/">
-    <img src="https://imgs.xkcd.com/comics/linguistics_degree.png" alt="Linguistics Degree" width="520" />
+  <a href="https://xkcd.com/2603/">
+    <img src="https://imgs.xkcd.com/comics/childhood_toys.png" alt="Childhood Toys" width="520" />
   </a>
-  <p><strong>Linguistics Degree</strong> · xkcd #2602 · 2022-04-04</p>
-  <p><sub>You&#x27;d think &#x27;linguistics&#x27; would go to someone important in the field, but it&#x27;s actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.</sub></p>
+  <p><strong>Childhood Toys</strong> · xkcd #2603 · 2022-04-06</p>
+  <p><sub>The rope keeps breaking, I&#x27;m covered in bruises and scrapes, and I&#x27;ve barely reached the end of my driveway, but I don&#x27;t care--I&#x27;m determined to become the first person to commute to work by tetherball.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
