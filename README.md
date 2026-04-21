@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2604/">
-    <img src="https://imgs.xkcd.com/comics/frankenstein_captcha.png" alt="Frankenstein Captcha" width="520" />
+  <a href="https://xkcd.com/2377/">
+    <img src="https://imgs.xkcd.com/comics/xkcd_phone_12.png" alt="xkcd Phone 12" width="520" />
   </a>
-  <p><strong>Frankenstein Captcha</strong> · xkcd #2604 · 2022-04-08</p>
-  <p><sub>The distinction between a ship and a boat is a line drawn in water.</sub></p>
+  <p><strong>xkcd Phone 12</strong> · xkcd #2377 · 2020-10-26</p>
+  <p><sub>New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we&#x27;ve been afraid to try it).</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
