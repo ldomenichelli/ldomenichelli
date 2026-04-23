@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2378/">
-    <img src="https://imgs.xkcd.com/comics/fall_back.png" alt="Fall Back" width="520" />
+  <a href="https://xkcd.com/2151/">
+    <img src="https://imgs.xkcd.com/comics/a_b.png" alt="A/B" width="520" />
   </a>
-  <p><strong>Fall Back</strong> · xkcd #2378 · 2020-10-28</p>
-  <p><sub>Doing great here in the sixth and hopefully final year of the 2016 election.</sub></p>
+  <p><strong>A/B</strong> · xkcd #2151 · 2019-05-17</p>
+  <p><sub>We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
