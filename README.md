@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1925/">
-    <img src="https://imgs.xkcd.com/comics/self_driving_car_milestones.png" alt="Self-Driving Car Milestones" width="520" />
+  <a href="https://xkcd.com/1926/">
+    <img src="https://imgs.xkcd.com/comics/bad_code.png" alt="Bad Code" width="520" />
   </a>
-  <p><strong>Self-Driving Car Milestones</strong> · xkcd #1925 · 2017-12-06</p>
-  <p><sub>I&#x27;m working on a car capable of evaluating arbitrarily complex boolean expressions on &quot;honk if [...]&quot; bumper stickers and responding accordingly.</sub></p>
+  <p><strong>Bad Code</strong> · xkcd #1926 · 2017-12-08</p>
+  <p><sub>&quot;Oh my God, why did you scotch-tape a bunch of hammers together?&quot; &quot;It&#x27;s ok! Nothing depends on this wall being destroyed efficiently.&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
