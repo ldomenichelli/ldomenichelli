@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1926/">
-    <img src="https://imgs.xkcd.com/comics/bad_code.png" alt="Bad Code" width="520" />
+  <a href="https://xkcd.com/1927/">
+    <img src="https://imgs.xkcd.com/comics/tinder.png" alt="Tinder" width="520" />
   </a>
-  <p><strong>Bad Code</strong> · xkcd #1926 · 2017-12-08</p>
-  <p><sub>&quot;Oh my God, why did you scotch-tape a bunch of hammers together?&quot; &quot;It&#x27;s ok! Nothing depends on this wall being destroyed efficiently.&quot;</sub></p>
+  <p><strong>Tinder</strong> · xkcd #1927 · 2017-12-11</p>
+  <p><sub>People keep telling me to use the radio but I really hate making voice calls.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
