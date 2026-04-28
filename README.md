@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1927/">
-    <img src="https://imgs.xkcd.com/comics/tinder.png" alt="Tinder" width="520" />
+  <a href="https://xkcd.com/1700/">
+    <img src="https://imgs.xkcd.com/comics/new_bug.png" alt="New Bug" width="520" />
   </a>
-  <p><strong>Tinder</strong> · xkcd #1927 · 2017-12-11</p>
-  <p><sub>People keep telling me to use the radio but I really hate making voice calls.</sub></p>
+  <p><strong>New Bug</strong> · xkcd #1700 · 2016-06-29</p>
+  <p><sub>There&#x27;s also a unicode-handling bug in the URL request library, and we&#x27;re storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
