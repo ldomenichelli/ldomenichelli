@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1701/">
-    <img src="https://imgs.xkcd.com/comics/speed_and_danger.png" alt="Speed and Danger" width="520" />
+  <a href="https://xkcd.com/1474/">
+    <img src="https://imgs.xkcd.com/comics/screws.png" alt="Screws" width="520" />
   </a>
-  <p><strong>Speed and Danger</strong> · xkcd #1701 · 2016-07-01</p>
-  <p><sub>NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing &quot;Ahh, what a nice and relaxing drive.&quot;</sub></p>
+  <p><strong>Screws</strong> · xkcd #1474 · 2015-01-16</p>
+  <p><sub>If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn&#x27;t work and it&#x27;s a great way to hurt yourself, but you can try it!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
