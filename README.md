@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1474/">
-    <img src="https://imgs.xkcd.com/comics/screws.png" alt="Screws" width="520" />
+  <a href="https://xkcd.com/1475/">
+    <img src="https://imgs.xkcd.com/comics/technically.png" alt="Technically" width="520" />
   </a>
-  <p><strong>Screws</strong> · xkcd #1474 · 2015-01-16</p>
-  <p><sub>If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn&#x27;t work and it&#x27;s a great way to hurt yourself, but you can try it!</sub></p>
+  <p><strong>Technically</strong> · xkcd #1475 · 2015-01-19</p>
+  <p><sub>&quot;Technically that sentence started with &#x27;well&#x27;, so--&quot; &quot;Ooh, a rock with a fossil in it!&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
