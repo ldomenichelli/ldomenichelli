@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1475/">
-    <img src="https://imgs.xkcd.com/comics/technically.png" alt="Technically" width="520" />
+  <a href="https://xkcd.com/1248/">
+    <img src="https://imgs.xkcd.com/comics/sphere.png" alt="Sphere" width="520" />
   </a>
-  <p><strong>Technically</strong> · xkcd #1475 · 2015-01-19</p>
-  <p><sub>&quot;Technically that sentence started with &#x27;well&#x27;, so--&quot; &quot;Ooh, a rock with a fossil in it!&quot;</sub></p>
+  <p><strong>Sphere</strong> · xkcd #1248 · 2013-08-07</p>
+  <p><sub>This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
