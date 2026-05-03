@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1248/">
-    <img src="https://imgs.xkcd.com/comics/sphere.png" alt="Sphere" width="520" />
+  <a href="https://xkcd.com/1249/">
+    <img src="https://imgs.xkcd.com/comics/meteor_showers.png" alt="Meteor Showers" width="520" />
   </a>
-  <p><strong>Sphere</strong> · xkcd #1248 · 2013-08-07</p>
-  <p><sub>This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.</sub></p>
+  <p><strong>Meteor Showers</strong> · xkcd #1249 · 2013-08-09</p>
+  <p><sub>Remember, meteors always hit the tallest object around.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
