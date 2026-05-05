@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1250/">
-    <img src="https://imgs.xkcd.com/comics/old_accounts.png" alt="Old Accounts" width="520" />
+  <a href="https://xkcd.com/1251/">
+    <img src="https://imgs.xkcd.com/comics/anti_glass.png" alt="Anti-Glass" width="520" />
   </a>
-  <p><strong>Old Accounts</strong> · xkcd #1250 · 2013-08-12</p>
-  <p><sub>If you close an account while it&#x27;s still friends with people, it contributes to database linkage accumulation slowdown, which is a major looming problem for web infrastructure and definitely not a thing I just made up.</sub></p>
+  <p><strong>Anti-Glass</strong> · xkcd #1251 · 2013-08-14</p>
+  <p><sub>&#x27;Why don&#x27;t you just point it at their eye directly?&#x27; &#x27;What is this, 2007?&#x27;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
