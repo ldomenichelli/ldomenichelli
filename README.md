@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1251/">
-    <img src="https://imgs.xkcd.com/comics/anti_glass.png" alt="Anti-Glass" width="520" />
+  <a href="https://xkcd.com/1024/">
+    <img src="https://imgs.xkcd.com/comics/error_code.png" alt="Error Code" width="520" />
   </a>
-  <p><strong>Anti-Glass</strong> · xkcd #1251 · 2013-08-14</p>
-  <p><sub>&#x27;Why don&#x27;t you just point it at their eye directly?&#x27; &#x27;What is this, 2007?&#x27;</sub></p>
+  <p><strong>Error Code</strong> · xkcd #1024 · 2012-03-02</p>
+  <p><sub>It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
