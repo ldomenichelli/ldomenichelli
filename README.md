@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/797/">
-    <img src="https://imgs.xkcd.com/comics/debian_main.png" alt="debian-main" width="520" />
+  <a href="https://xkcd.com/798/">
+    <img src="https://imgs.xkcd.com/comics/adjectives.png" alt="Adjectives" width="520" />
   </a>
-  <p><strong>debian-main</strong> · xkcd #797 · 2010-09-24</p>
-  <p><sub>dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES</sub></p>
+  <p><strong>Adjectives</strong> · xkcd #798 · 2010-09-27</p>
+  <p><sub>&#x27;Fucking ineffable&#x27; sounds like someone remembering how to do self-censorship halfway through a phrase.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
