@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/798/">
-    <img src="https://imgs.xkcd.com/comics/adjectives.png" alt="Adjectives" width="520" />
+  <a href="https://xkcd.com/571/">
+    <img src="https://imgs.xkcd.com/comics/cant_sleep.png" alt="Can&#x27;t Sleep" width="520" />
   </a>
-  <p><strong>Adjectives</strong> · xkcd #798 · 2010-09-27</p>
-  <p><sub>&#x27;Fucking ineffable&#x27; sounds like someone remembering how to do self-censorship halfway through a phrase.</sub></p>
+  <p><strong>Can&#x27;t Sleep</strong> · xkcd #571 · 2009-04-20</p>
+  <p><sub>If androids someday DO dream of electric sheep, don&#x27;t forget to declare sheepCount as a long int.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
