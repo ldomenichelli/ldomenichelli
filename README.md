@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/572/">
-    <img src="https://imgs.xkcd.com/comics/together.png" alt="Together" width="520" />
+  <a href="https://xkcd.com/573/">
+    <img src="https://imgs.xkcd.com/comics/parental_trolling.png" alt="Parental Trolling" width="520" />
   </a>
-  <p><strong>Together</strong> · xkcd #572 · 2009-04-22</p>
-  <p><sub>This scavenger hunt is getting boring.  Let&#x27;s go work on the treehouse!</sub></p>
+  <p><strong>Parental Trolling</strong> · xkcd #573 · 2009-04-24</p>
+  <p><sub>They&#x27;ll pick music and culture that they know annoys you.  Building in behavioral easter eggs is a fair retaliation!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
