@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/574/">
-    <img src="https://imgs.xkcd.com/comics/swine_flu.png" alt="Swine Flu" width="520" />
+  <a href="https://xkcd.com/346/">
+    <img src="https://imgs.xkcd.com/comics/diet_coke_mentos.png" alt="Diet Coke+Mentos" width="520" />
   </a>
-  <p><strong>Swine Flu</strong> · xkcd #574 · 2009-04-27</p>
-  <p><sub>Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.</sub></p>
+  <p><strong>Diet Coke+Mentos</strong> · xkcd #346 · 2007-11-19</p>
+  <p><sub>The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
