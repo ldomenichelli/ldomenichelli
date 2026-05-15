@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/119/">
-    <img src="https://imgs.xkcd.com/comics/hedgeclipper.jpg" alt="Worst Band Name Ever" width="520" />
+  <a href="https://xkcd.com/120/">
+    <img src="https://imgs.xkcd.com/comics/dating_service.png" alt="Dating Service" width="520" />
   </a>
-  <p><strong>Worst Band Name Ever</strong> · xkcd #119 · 2006-06-23</p>
-  <p><sub>You can just see his dejection as he realizes he&#x27;s the lead guitar in &#x27;Hedgeclipper&#x27;</sub></p>
+  <p><strong>Dating Service</strong> · xkcd #120 · 2006-06-26</p>
+  <p><sub>I don&#x27;t understand why people are so disingenuous!  I just want someone to walk with!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
