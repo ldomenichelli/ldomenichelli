@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/120/">
-    <img src="https://imgs.xkcd.com/comics/dating_service.png" alt="Dating Service" width="520" />
+  <a href="https://xkcd.com/3139/">
+    <img src="https://imgs.xkcd.com/comics/chess_variant.png" alt="Chess Variant" width="520" />
   </a>
-  <p><strong>Dating Service</strong> · xkcd #120 · 2006-06-26</p>
-  <p><sub>I don&#x27;t understand why people are so disingenuous!  I just want someone to walk with!</sub></p>
+  <p><strong>Chess Variant</strong> · xkcd #3139 · 2025-09-08</p>
+  <p><sub>The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
