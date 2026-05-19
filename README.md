@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3141/">
-    <img src="https://imgs.xkcd.com/comics/mantle_model.png" alt="Mantle Model" width="520" />
+  <a href="https://xkcd.com/2915/">
+    <img src="https://imgs.xkcd.com/comics/eclipse_clouds.png" alt="Eclipse Clouds" width="520" />
   </a>
-  <p><strong>Mantle Model</strong> · xkcd #3141 · 2025-09-12</p>
-  <p><sub>Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</sub></p>
+  <p><strong>Eclipse Clouds</strong> · xkcd #2915 · 2024-04-03</p>
+  <p><sub>The rare compound solar-lunar-nephelogical eclipse</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
