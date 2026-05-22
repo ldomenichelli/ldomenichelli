@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2690/">
-    <img src="https://imgs.xkcd.com/comics/cool_s.png" alt="Cool S" width="520" />
+  <a href="https://xkcd.com/2691/">
+    <img src="https://imgs.xkcd.com/comics/encryption.png" alt="Encryption" width="520" />
   </a>
-  <p><strong>Cool S</strong> · xkcd #2690 · 2022-10-26</p>
-  <p><sub>Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.</sub></p>
+  <p><strong>Encryption</strong> · xkcd #2691 · 2022-10-28</p>
+  <p><sub>WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
