@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2691/">
-    <img src="https://imgs.xkcd.com/comics/encryption.png" alt="Encryption" width="520" />
+  <a href="https://xkcd.com/2465/">
+    <img src="https://imgs.xkcd.com/comics/dimensional_chess.png" alt="Dimensional Chess" width="520" />
   </a>
-  <p><strong>Encryption</strong> · xkcd #2691 · 2022-10-28</p>
-  <p><sub>WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!</sub></p>
+  <p><strong>Dimensional Chess</strong> · xkcd #2465 · 2021-05-19</p>
+  <p><sub>In Dimensional Chess, every move is annotated &#x27;?!&#x27;.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
