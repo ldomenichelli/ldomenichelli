@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2465/">
-    <img src="https://imgs.xkcd.com/comics/dimensional_chess.png" alt="Dimensional Chess" width="520" />
+  <a href="https://xkcd.com/2466/">
+    <img src="https://imgs.xkcd.com/comics/in_your_classroom.png" alt="In Your Classroom" width="520" />
   </a>
-  <p><strong>Dimensional Chess</strong> · xkcd #2465 · 2021-05-19</p>
-  <p><sub>In Dimensional Chess, every move is annotated &#x27;?!&#x27;.</sub></p>
+  <p><strong>In Your Classroom</strong> · xkcd #2466 · 2021-05-21</p>
+  <p><sub>Ontology is way off to the left and geography is way off to the right.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
