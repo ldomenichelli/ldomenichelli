@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2466/">
-    <img src="https://imgs.xkcd.com/comics/in_your_classroom.png" alt="In Your Classroom" width="520" />
+  <a href="https://xkcd.com/2467/">
+    <img src="https://imgs.xkcd.com/comics/wikipedia_caltrops.png" alt="Wikipedia Caltrops" width="520" />
   </a>
-  <p><strong>In Your Classroom</strong> · xkcd #2466 · 2021-05-21</p>
-  <p><sub>Ontology is way off to the left and geography is way off to the right.</sub></p>
+  <p><strong>Wikipedia Caltrops</strong> · xkcd #2467 · 2021-05-24</p>
+  <p><sub>Oh no, they set up a roadblock which is just a sign with the entire &#x27;Czech hedgehog&#x27; article printed on it.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
