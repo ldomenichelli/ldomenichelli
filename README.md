@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2467/">
-    <img src="https://imgs.xkcd.com/comics/wikipedia_caltrops.png" alt="Wikipedia Caltrops" width="520" />
+  <a href="https://xkcd.com/2241/">
+    <img src="https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png" alt="Brussels Sprouts Mandela Effect" width="520" />
   </a>
-  <p><strong>Wikipedia Caltrops</strong> · xkcd #2467 · 2021-05-24</p>
-  <p><sub>Oh no, they set up a roadblock which is just a sign with the entire &#x27;Czech hedgehog&#x27; article printed on it.</sub></p>
+  <p><strong>Brussels Sprouts Mandela Effect</strong> · xkcd #2241 · 2019-12-13</p>
+  <p><sub>I love Brussels Sprouts Mandela Effect; I saw them open for Correct Horse Battery Staple.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
