@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2241/">
-    <img src="https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png" alt="Brussels Sprouts Mandela Effect" width="520" />
+  <a href="https://xkcd.com/2242/">
+    <img src="https://imgs.xkcd.com/comics/ground_vs_air.png" alt="Ground vs Air" width="520" />
   </a>
-  <p><strong>Brussels Sprouts Mandela Effect</strong> · xkcd #2241 · 2019-12-13</p>
-  <p><sub>I love Brussels Sprouts Mandela Effect; I saw them open for Correct Horse Battery Staple.</sub></p>
+  <p><strong>Ground vs Air</strong> · xkcd #2242 · 2019-12-16</p>
+  <p><sub>Water is thinner than both, and fire is *definitely* thicker.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
