@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2242/">
-    <img src="https://imgs.xkcd.com/comics/ground_vs_air.png" alt="Ground vs Air" width="520" />
+  <a href="https://xkcd.com/2016/">
+    <img src="https://imgs.xkcd.com/comics/oeis_submissions.png" alt="OEIS Submissions" width="520" />
   </a>
-  <p><strong>Ground vs Air</strong> · xkcd #2242 · 2019-12-16</p>
-  <p><sub>Water is thinner than both, and fire is *definitely* thicker.</sub></p>
+  <p><strong>OEIS Submissions</strong> · xkcd #2016 · 2018-07-06</p>
+  <p><sub>SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
