@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2016/">
-    <img src="https://imgs.xkcd.com/comics/oeis_submissions.png" alt="OEIS Submissions" width="520" />
+  <a href="https://xkcd.com/2017/">
+    <img src="https://imgs.xkcd.com/comics/stargazing_2.png" alt="Stargazing 2" width="520" />
   </a>
-  <p><strong>OEIS Submissions</strong> · xkcd #2016 · 2018-07-06</p>
-  <p><sub>SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order</sub></p>
+  <p><strong>Stargazing 2</strong> · xkcd #2017 · 2018-07-09</p>
+  <p><sub>I mean, it wasn&#x27;t exactly MY thesis. When the FAA came to shut down our observatory for using the telescope mirror to shine light at airplanes, I took a thesis and a bunch of doctorates from the supply cabinet on my way out.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
