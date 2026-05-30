@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2017/">
-    <img src="https://imgs.xkcd.com/comics/stargazing_2.png" alt="Stargazing 2" width="520" />
+  <a href="https://xkcd.com/1791/">
+    <img src="https://imgs.xkcd.com/comics/telescopes_refractor_vs_reflector.png" alt="Telescopes: Refractor vs Reflector" width="520" />
   </a>
-  <p><strong>Stargazing 2</strong> · xkcd #2017 · 2018-07-09</p>
-  <p><sub>I mean, it wasn&#x27;t exactly MY thesis. When the FAA came to shut down our observatory for using the telescope mirror to shine light at airplanes, I took a thesis and a bunch of doctorates from the supply cabinet on my way out.</sub></p>
+  <p><strong>Telescopes: Refractor vs Reflector</strong> · xkcd #1791 · 2017-01-27</p>
+  <p><sub>On the other hand, the refractor&#x27;s limited light-gathering means it&#x27;s unable to make out shadow people or the dark god Chernabog.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
