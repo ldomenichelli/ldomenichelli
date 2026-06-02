@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1793/">
-    <img src="https://imgs.xkcd.com/comics/soda_sugar_comparisons.png" alt="Soda Sugar Comparisons" width="520" />
+  <a href="https://xkcd.com/1567/">
+    <img src="https://imgs.xkcd.com/comics/kitchen_tips.png" alt="Kitchen Tips" width="520" />
   </a>
-  <p><strong>Soda Sugar Comparisons</strong> · xkcd #1793 · 2017-02-01</p>
-  <p><sub>The key is portion control, which is why I&#x27;ve switched to eating smaller cans of frosting instead of full bottles.</sub></p>
+  <p><strong>Kitchen Tips</strong> · xkcd #1567 · 2015-08-21</p>
+  <p><sub>Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it&#x27;s much easier on your plumbing.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
