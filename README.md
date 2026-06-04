@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1568/">
-    <img src="https://imgs.xkcd.com/comics/synonym_movies_2.png" alt="Synonym Movies 2" width="520" />
+  <a href="https://xkcd.com/1342/">
+    <img src="https://imgs.xkcd.com/comics/ancient_stars.png" alt="Ancient Stars" width="520" />
   </a>
-  <p><strong>Synonym Movies 2</strong> · xkcd #1568 · 2015-08-24</p>
-  <p><sub>There&#x27;s also the TV show based on the hit Hot and Cold Music books: Fun With Chairs, Royal Rumble, Knife Blizzard, Breakfast for Birds, and Samba Serpents.</sub></p>
+  <p><strong>Ancient Stars</strong> · xkcd #1342 · 2014-03-14</p>
+  <p><sub>&#x27;The light from those millions of stars you see is probably many thousands of years old&#x27; is a rare example of laypeople substantially OVERestimating astronomical numbers.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
