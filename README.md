@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1343/">
-    <img src="https://imgs.xkcd.com/comics/manuals.png" alt="Manuals" width="520" />
+  <a href="https://xkcd.com/1117/">
+    <img src="https://imgs.xkcd.com/comics/my_sky.png" alt="My Sky" width="520" />
   </a>
-  <p><strong>Manuals</strong> · xkcd #1343 · 2014-03-17</p>
-  <p><sub>The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a &#x27;quick guide&#x27; to EBNF, a system for defining the grammar of a language. &#x27;Don&#x27;t despair&#x27;, it says, &#x27;the definitions below are annotated.&#x27;</sub></p>
+  <p><strong>My Sky</strong> · xkcd #1117 · 2012-10-05</p>
+  <p><sub>According to my mom, my first word was (looking up at the sky) &#x27;Wow!&#x27;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
