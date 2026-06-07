@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1117/">
-    <img src="https://imgs.xkcd.com/comics/my_sky.png" alt="My Sky" width="520" />
+  <a href="https://xkcd.com/1118/">
+    <img src="https://imgs.xkcd.com/comics/microsoft.png" alt="Microsoft" width="520" />
   </a>
-  <p><strong>My Sky</strong> · xkcd #1117 · 2012-10-05</p>
-  <p><sub>According to my mom, my first word was (looking up at the sky) &#x27;Wow!&#x27;</sub></p>
+  <p><strong>Microsoft</strong> · xkcd #1118 · 2012-10-08</p>
+  <p><sub>Facebook, Apple, and Google all got away with their monopolist power grabs because they don&#x27;t have any &#x27;S&#x27;s in their names for critics to snarkily replace with &#x27;$&#x27;s.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
