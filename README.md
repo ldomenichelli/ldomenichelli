@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1118/">
-    <img src="https://imgs.xkcd.com/comics/microsoft.png" alt="Microsoft" width="520" />
+  <a href="https://xkcd.com/1119/">
+    <img src="https://imgs.xkcd.com/comics/undoing.png" alt="Undoing" width="520" />
   </a>
-  <p><strong>Microsoft</strong> · xkcd #1118 · 2012-10-08</p>
-  <p><sub>Facebook, Apple, and Google all got away with their monopolist power grabs because they don&#x27;t have any &#x27;S&#x27;s in their names for critics to snarkily replace with &#x27;$&#x27;s.</sub></p>
+  <p><strong>Undoing</strong> · xkcd #1119 · 2012-10-10</p>
+  <p><sub>I&#x27;ve been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
