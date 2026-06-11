@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/894/">
-    <img src="https://imgs.xkcd.com/comics/progeny.png" alt="Progeny" width="520" />
+  <a href="https://xkcd.com/668/">
+    <img src="https://imgs.xkcd.com/comics/pandora.png" alt="Pandora" width="520" />
   </a>
-  <p><strong>Progeny</strong> · xkcd #894 · 2011-05-04</p>
-  <p><sub>I tell my children &#x27;it&#x27;s not whether you win or lose, it&#x27;s how you play the game.&#x27; I&#x27;m trying to take the edge off their competitive drive to ensure that I can always beat them.</sub></p>
+  <p><strong>Pandora</strong> · xkcd #668 · 2009-11-27</p>
+  <p><sub>What?  Oh, no, the &#x27;Enchanted&#x27; soundtrack was just playing because Pandora&#x27;s algorithms are terrible.  [silence] ... (quietly) That&#x27;s how you knooooooow ...</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
