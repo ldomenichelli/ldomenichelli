@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/668/">
-    <img src="https://imgs.xkcd.com/comics/pandora.png" alt="Pandora" width="520" />
+  <a href="https://xkcd.com/669/">
+    <img src="https://imgs.xkcd.com/comics/experiment.png" alt="Experiment" width="520" />
   </a>
-  <p><strong>Pandora</strong> · xkcd #668 · 2009-11-27</p>
-  <p><sub>What?  Oh, no, the &#x27;Enchanted&#x27; soundtrack was just playing because Pandora&#x27;s algorithms are terrible.  [silence] ... (quietly) That&#x27;s how you knooooooow ...</sub></p>
+  <p><strong>Experiment</strong> · xkcd #669 · 2009-11-30</p>
+  <p><sub>The other two are still lost on the infinite plane of uniform density.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
