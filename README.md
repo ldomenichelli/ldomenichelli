@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/669/">
-    <img src="https://imgs.xkcd.com/comics/experiment.png" alt="Experiment" width="520" />
+  <a href="https://xkcd.com/443/">
+    <img src="https://imgs.xkcd.com/comics/know_your_vines.png" alt="Know Your Vines" width="520" />
   </a>
-  <p><strong>Experiment</strong> · xkcd #669 · 2009-11-30</p>
-  <p><sub>The other two are still lost on the infinite plane of uniform density.</sub></p>
+  <p><strong>Know Your Vines</strong> · xkcd #443 · 2008-06-30</p>
+  <p><sub>Friggin&#x27; modern tents don&#x27;t have a single piece of rope.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
