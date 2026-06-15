@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/444/">
-    <img src="https://imgs.xkcd.com/comics/macgyver_gets_lazy.png" alt="Macgyver Gets Lazy" width="520" />
+  <a href="https://xkcd.com/445/">
+    <img src="https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png" alt="I Am Not Good with Boomerangs" width="520" />
   </a>
-  <p><strong>Macgyver Gets Lazy</strong> · xkcd #444 · 2008-07-02</p>
-  <p><sub>At the time of this writing, Wikipedia has a wonderful article titled &#x27;List of problems solved by Macgyver&#x27;.</sub></p>
+  <p><strong>I Am Not Good with Boomerangs</strong> · xkcd #445 · 2008-07-04</p>
+  <p><sub>Bonus strip: just read the rightmost panels straight down. </sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
