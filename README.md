@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/445/">
-    <img src="https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png" alt="I Am Not Good with Boomerangs" width="520" />
+  <a href="https://xkcd.com/218/">
+    <img src="https://imgs.xkcd.com/comics/nintendo_surgeon.png" alt="Nintendo Surgeon" width="520" />
   </a>
-  <p><strong>I Am Not Good with Boomerangs</strong> · xkcd #445 · 2008-07-04</p>
-  <p><sub>Bonus strip: just read the rightmost panels straight down. </sub></p>
+  <p><strong>Nintendo Surgeon</strong> · xkcd #218 · 2007-02-02</p>
+  <p><sub>Scary thought #138: Raptors coming down the waterslide behind me.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
