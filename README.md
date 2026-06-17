@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/218/">
-    <img src="https://imgs.xkcd.com/comics/nintendo_surgeon.png" alt="Nintendo Surgeon" width="520" />
+  <a href="https://xkcd.com/219/">
+    <img src="https://imgs.xkcd.com/comics/blanket_fort.png" alt="Blanket Fort" width="520" />
   </a>
-  <p><strong>Nintendo Surgeon</strong> · xkcd #218 · 2007-02-02</p>
-  <p><sub>Scary thought #138: Raptors coming down the waterslide behind me.</sub></p>
+  <p><strong>Blanket Fort</strong> · xkcd #219 · 2007-02-05</p>
+  <p><sub>Also, we have a fort out in the woods where we stashed that hooker&#x27;s body.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
