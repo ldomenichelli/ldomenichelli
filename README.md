@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3253/">
-    <img src="https://imgs.xkcd.com/comics/sunbeam.png" alt="Sunbeam" width="520" />
+  <a href="https://xkcd.com/3254/">
+    <img src="https://imgs.xkcd.com/comics/detector.png" alt="Detector" width="520" />
   </a>
-  <p><strong>Sunbeam</strong> · xkcd #3253 · 2026-06-01</p>
-  <p><sub>While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.</sub></p>
+  <p><strong>Detector</strong> · xkcd #3254 · 2026-06-03</p>
+  <p><sub>No other experiment has a lower false negative rate.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
