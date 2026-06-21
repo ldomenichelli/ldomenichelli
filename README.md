@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3029/">
-    <img src="https://imgs.xkcd.com/comics/sun_avoidance.png" alt="Sun Avoidance" width="520" />
+  <a href="https://xkcd.com/3030/">
+    <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" width="520" />
   </a>
-  <p><strong>Sun Avoidance</strong> · xkcd #3029 · 2024-12-25</p>
-  <p><sub>C&#x27;mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.</sub></p>
+  <p><strong>Lasering Incidents</strong> · xkcd #3030 · 2024-12-27</p>
+  <p><sub>I still don&#x27;t know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
