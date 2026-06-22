@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3030/">
-    <img src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="Lasering Incidents" width="520" />
+  <a href="https://xkcd.com/3031/">
+    <img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" alt="Time Capsule Instructions" width="520" />
   </a>
-  <p><strong>Lasering Incidents</strong> · xkcd #3030 · 2024-12-27</p>
-  <p><sub>I still don&#x27;t know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.</sub></p>
+  <p><strong>Time Capsule Instructions</strong> · xkcd #3031 · 2024-12-30</p>
+  <p><sub>Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
