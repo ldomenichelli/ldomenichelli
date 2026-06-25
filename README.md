@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2807/">
-    <img src="https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png" alt="Bad Map Projection: ABS(Longitude)" width="520" />
+  <a href="https://xkcd.com/2582/">
+    <img src="https://imgs.xkcd.com/comics/data_trap.png" alt="Data Trap" width="520" />
   </a>
-  <p><strong>Bad Map Projection: ABS(Longitude)</strong> · xkcd #2807 · 2023-07-26</p>
-  <p><sub>Positive vibes/longitudes only</sub></p>
+  <p><strong>Data Trap</strong> · xkcd #2582 · 2022-02-16</p>
+  <p><sub>It&#x27;s important to make sure your analysis destroys as much information as it produces.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
