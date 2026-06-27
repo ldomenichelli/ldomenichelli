@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2583/">
-    <img src="https://imgs.xkcd.com/comics/chorded_keyboard.png" alt="Chorded Keyboard" width="520" />
+  <a href="https://xkcd.com/2358/">
+    <img src="https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png" alt="Gravitational Wave Pulsars" width="520" />
   </a>
-  <p><strong>Chorded Keyboard</strong> · xkcd #2583 · 2022-02-18</p>
-  <p><sub>And even though it all went wrong / I&#x27;ll stand before the lord of song / with nothing on my tongue but &#x27;I don&#x27;t understand, I swear I backed up my keyboard config before messing with it&#x27;</sub></p>
+  <p><strong>Gravitational Wave Pulsars</strong> · xkcd #2358 · 2020-09-11</p>
+  <p><sub>The most important attributes of a vector in 3-space are {Location, Location, Location}</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
