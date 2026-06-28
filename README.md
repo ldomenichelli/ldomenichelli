@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2358/">
-    <img src="https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png" alt="Gravitational Wave Pulsars" width="520" />
+  <a href="https://xkcd.com/2359/">
+    <img src="https://imgs.xkcd.com/comics/evidence_of_alien_life.png" alt="Evidence of Alien Life" width="520" />
   </a>
-  <p><strong>Gravitational Wave Pulsars</strong> · xkcd #2358 · 2020-09-11</p>
-  <p><sub>The most important attributes of a vector in 3-space are {Location, Location, Location}</sub></p>
+  <p><strong>Evidence of Alien Life</strong> · xkcd #2359 · 2020-09-14</p>
+  <p><sub>Both too cautious AND not cautious enough: &quot;I&#x27;m skeptical that those are aliens, so I&#x27;m going to try pulling off their masks.&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
