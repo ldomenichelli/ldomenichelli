@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2359/">
-    <img src="https://imgs.xkcd.com/comics/evidence_of_alien_life.png" alt="Evidence of Alien Life" width="520" />
+  <a href="https://xkcd.com/2360/">
+    <img src="https://imgs.xkcd.com/comics/common_star_types.png" alt="Common Star Types" width="520" />
   </a>
-  <p><strong>Evidence of Alien Life</strong> · xkcd #2359 · 2020-09-14</p>
-  <p><sub>Both too cautious AND not cautious enough: &quot;I&#x27;m skeptical that those are aliens, so I&#x27;m going to try pulling off their masks.&quot;</sub></p>
+  <p><strong>Common Star Types</strong> · xkcd #2360 · 2020-09-16</p>
+  <p><sub>This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
