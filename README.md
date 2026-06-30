@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2360/">
-    <img src="https://imgs.xkcd.com/comics/common_star_types.png" alt="Common Star Types" width="520" />
+  <a href="https://xkcd.com/2135/">
+    <img src="https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png" alt="M87 Black Hole Size Comparison" width="520" />
   </a>
-  <p><strong>Common Star Types</strong> · xkcd #2360 · 2020-09-16</p>
-  <p><sub>This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).</sub></p>
+  <p><strong>M87 Black Hole Size Comparison</strong> · xkcd #2135 · 2019-04-10</p>
+  <p><sub>I think Voyager 1 would be just past the event horizon, but slightly less than halfway to the bright ring.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
