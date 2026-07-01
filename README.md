@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2135/">
-    <img src="https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png" alt="M87 Black Hole Size Comparison" width="520" />
+  <a href="https://xkcd.com/2136/">
+    <img src="https://imgs.xkcd.com/comics/election_commentary.png" alt="Election Commentary" width="520" />
   </a>
-  <p><strong>M87 Black Hole Size Comparison</strong> · xkcd #2135 · 2019-04-10</p>
-  <p><sub>I think Voyager 1 would be just past the event horizon, but slightly less than halfway to the bright ring.</sub></p>
+  <p><strong>Election Commentary</strong> · xkcd #2136 · 2019-04-12</p>
+  <p><sub>This really validates Jones&#x27;s strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
