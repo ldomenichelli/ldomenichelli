@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1911/">
-    <img src="https://imgs.xkcd.com/comics/defensive_profile.png" alt="Defensive Profile" width="520" />
+  <a href="https://xkcd.com/1912/">
+    <img src="https://imgs.xkcd.com/comics/thermostat.png" alt="Thermostat" width="520" />
   </a>
-  <p><strong>Defensive Profile</strong> · xkcd #1911 · 2017-11-03</p>
-  <p><sub>NO DRAMA ZONE -&gt; If I&#x27;ve made you sad, you&#x27;d better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.</sub></p>
+  <p><strong>Thermostat</strong> · xkcd #1912 · 2017-11-06</p>
+  <p><sub>Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
