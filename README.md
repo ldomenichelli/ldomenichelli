@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1912/">
-    <img src="https://imgs.xkcd.com/comics/thermostat.png" alt="Thermostat" width="520" />
+  <a href="https://xkcd.com/1687/">
+    <img src="https://imgs.xkcd.com/comics/world_war_iii.png" alt="World War III+" width="520" />
   </a>
-  <p><strong>Thermostat</strong> · xkcd #1912 · 2017-11-06</p>
-  <p><sub>Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.</sub></p>
+  <p><strong>World War III+</strong> · xkcd #1687 · 2016-05-30</p>
+  <p><sub>I hate how the media only ever uses the first part of this quote, stripping it of its important context.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
