@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1687/">
-    <img src="https://imgs.xkcd.com/comics/world_war_iii.png" alt="World War III+" width="520" />
+  <a href="https://xkcd.com/1688/">
+    <img src="https://imgs.xkcd.com/comics/map_age_guide.png" alt="Map Age Guide" width="520" />
   </a>
-  <p><strong>World War III+</strong> · xkcd #1687 · 2016-05-30</p>
-  <p><sub>I hate how the media only ever uses the first part of this quote, stripping it of its important context.</sub></p>
+  <p><strong>Map Age Guide</strong> · xkcd #1688 · 2016-06-01</p>
+  <p><sub>Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
