@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1688/">
-    <img src="https://imgs.xkcd.com/comics/map_age_guide.png" alt="Map Age Guide" width="520" />
+  <a href="https://xkcd.com/1689/">
+    <img src="https://imgs.xkcd.com/comics/my_friend_catherine.png" alt="My Friend Catherine" width="520" />
   </a>
-  <p><strong>Map Age Guide</strong> · xkcd #1688 · 2016-06-01</p>
-  <p><sub>Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.</sub></p>
+  <p><strong>My Friend Catherine</strong> · xkcd #1689 · 2016-06-03</p>
+  <p><sub>I can&#x27;t get any work done because my friend Catherine is sitting on my keyboard.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
