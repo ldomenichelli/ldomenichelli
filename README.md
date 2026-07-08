@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1464/">
-    <img src="https://imgs.xkcd.com/comics/santa.png" alt="Santa" width="520" />
+  <a href="https://xkcd.com/1465/">
+    <img src="https://imgs.xkcd.com/comics/xkcd_phone_2.png" alt="xkcd Phone 2" width="520" />
   </a>
-  <p><strong>Santa</strong> · xkcd #1464 · 2014-12-24</p>
-  <p><sub>He probably just poops over the side of the sleigh.</sub></p>
+  <p><strong>xkcd Phone 2</strong> · xkcd #1465 · 2014-12-26</p>
+  <p><sub>Washable, though only once.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
