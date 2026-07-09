@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1465/">
-    <img src="https://imgs.xkcd.com/comics/xkcd_phone_2.png" alt="xkcd Phone 2" width="520" />
+  <a href="https://xkcd.com/1240/">
+    <img src="https://imgs.xkcd.com/comics/quantum_mechanics.png" alt="Quantum Mechanics" width="520" />
   </a>
-  <p><strong>xkcd Phone 2</strong> · xkcd #1465 · 2014-12-26</p>
-  <p><sub>Washable, though only once.</sub></p>
+  <p><strong>Quantum Mechanics</strong> · xkcd #1240 · 2013-07-19</p>
+  <p><sub>You can also just ignore any science assertion where &#x27;quantum mechanics&#x27; is the most complicated phrase in it.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
