@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1241/">
-    <img src="https://imgs.xkcd.com/comics/annoying_ringtone_champion.png" alt="Annoying Ringtone Champion" width="520" />
+  <a href="https://xkcd.com/1016/">
+    <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="Valentine Dilemma" width="520" />
   </a>
-  <p><strong>Annoying Ringtone Champion</strong> · xkcd #1241 · 2013-07-22</p>
-  <p><sub>It beat out &#x27;Clock radio alarm&#x27;, &#x27;B-flat at 194 decibels&#x27;, &#x27;That noise from Dumb &amp; Dumber&#x27;, and &#x27;Recording of a sobbing voice begging you to answer&#x27;.</sub></p>
+  <p><strong>Valentine Dilemma</strong> · xkcd #1016 · 2012-02-13</p>
+  <p><sub>The worst resolution to the Valentine Prisoner&#x27;s Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
