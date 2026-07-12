@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1016/">
-    <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="Valentine Dilemma" width="520" />
+  <a href="https://xkcd.com/1017/">
+    <img src="https://imgs.xkcd.com/comics/backward_in_time.png" alt="Backward in Time" width="520" />
   </a>
-  <p><strong>Valentine Dilemma</strong> · xkcd #1016 · 2012-02-13</p>
-  <p><sub>The worst resolution to the Valentine Prisoner&#x27;s Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.</sub></p>
+  <p><strong>Backward in Time</strong> · xkcd #1017 · 2012-02-14</p>
+  <p><sub>People tell me I have too much time on my hands, but really the problem is that there&#x27;s too much time, PERIOD.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
