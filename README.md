@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1017/">
-    <img src="https://imgs.xkcd.com/comics/backward_in_time.png" alt="Backward in Time" width="520" />
+  <a href="https://xkcd.com/1018/">
+    <img src="https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png" alt="Good Cop, Dadaist Cop" width="520" />
   </a>
-  <p><strong>Backward in Time</strong> · xkcd #1017 · 2012-02-14</p>
-  <p><sub>People tell me I have too much time on my hands, but really the problem is that there&#x27;s too much time, PERIOD.</sub></p>
+  <p><strong>Good Cop, Dadaist Cop</strong> · xkcd #1018 · 2012-02-17</p>
+  <p><sub>NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
