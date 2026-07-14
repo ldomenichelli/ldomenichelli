@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1018/">
-    <img src="https://imgs.xkcd.com/comics/good_cop_dadaist_cop.png" alt="Good Cop, Dadaist Cop" width="520" />
+  <a href="https://xkcd.com/793/">
+    <img src="https://imgs.xkcd.com/comics/physicists.png" alt="Physicists" width="520" />
   </a>
-  <p><strong>Good Cop, Dadaist Cop</strong> · xkcd #1018 · 2012-02-17</p>
-  <p><sub>NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.</sub></p>
+  <p><strong>Physicists</strong> · xkcd #793 · 2010-09-15</p>
+  <p><sub>If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don&#x27;t need to read your thesis, I can imagine roughly what it says.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
