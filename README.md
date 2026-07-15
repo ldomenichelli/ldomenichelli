@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/793/">
-    <img src="https://imgs.xkcd.com/comics/physicists.png" alt="Physicists" width="520" />
+  <a href="https://xkcd.com/794/">
+    <img src="https://imgs.xkcd.com/comics/inside_joke.png" alt="Inside Joke" width="520" />
   </a>
-  <p><strong>Physicists</strong> · xkcd #793 · 2010-09-15</p>
-  <p><sub>If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don&#x27;t need to read your thesis, I can imagine roughly what it says.</sub></p>
+  <p><strong>Inside Joke</strong> · xkcd #794 · 2010-09-17</p>
+  <p><sub>I&#x27;ve looked through a few annotated versions of classic books, and it&#x27;s shocking how much of what&#x27;s in there is basically pop-culture references totally lost on us now.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
