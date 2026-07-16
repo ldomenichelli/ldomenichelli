@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/794/">
-    <img src="https://imgs.xkcd.com/comics/inside_joke.png" alt="Inside Joke" width="520" />
+  <a href="https://xkcd.com/569/">
+    <img src="https://imgs.xkcd.com/comics/borders.png" alt="Borders" width="520" />
   </a>
-  <p><strong>Inside Joke</strong> · xkcd #794 · 2010-09-17</p>
-  <p><sub>I&#x27;ve looked through a few annotated versions of classic books, and it&#x27;s shocking how much of what&#x27;s in there is basically pop-culture references totally lost on us now.</sub></p>
+  <p><strong>Borders</strong> · xkcd #569 · 2009-04-15</p>
+  <p><sub>Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
