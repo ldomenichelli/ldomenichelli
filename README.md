@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/569/">
-    <img src="https://imgs.xkcd.com/comics/borders.png" alt="Borders" width="520" />
+  <a href="https://xkcd.com/570/">
+    <img src="https://imgs.xkcd.com/comics/new_car.png" alt="New Car" width="520" />
   </a>
-  <p><strong>Borders</strong> · xkcd #569 · 2009-04-15</p>
-  <p><sub>Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.</sub></p>
+  <p><strong>New Car</strong> · xkcd #570 · 2009-04-17</p>
+  <p><sub>Somewhere out there is a company that has actually figured out how to enlarge penises, and it&#x27;s helpless to reach potential customers.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
