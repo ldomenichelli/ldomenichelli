@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/570/">
-    <img src="https://imgs.xkcd.com/comics/new_car.png" alt="New Car" width="520" />
+  <a href="https://xkcd.com/344/">
+    <img src="https://imgs.xkcd.com/comics/1337_part_4.png" alt="1337: Part 4" width="520" />
   </a>
-  <p><strong>New Car</strong> · xkcd #570 · 2009-04-17</p>
-  <p><sub>Somewhere out there is a company that has actually figured out how to enlarge penises, and it&#x27;s helpless to reach potential customers.</sub></p>
+  <p><strong>1337: Part 4</strong> · xkcd #344 · 2007-11-14</p>
+  <p><sub>Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
