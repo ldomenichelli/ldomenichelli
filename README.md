@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/344/">
-    <img src="https://imgs.xkcd.com/comics/1337_part_4.png" alt="1337: Part 4" width="520" />
+  <a href="https://xkcd.com/345/">
+    <img src="https://imgs.xkcd.com/comics/1337_part_5.png" alt="1337: Part 5" width="520" />
   </a>
-  <p><strong>1337: Part 4</strong> · xkcd #344 · 2007-11-14</p>
-  <p><sub>Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.</sub></p>
+  <p><strong>1337: Part 5</strong> · xkcd #345 · 2007-11-16</p>
+  <p><sub>This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
