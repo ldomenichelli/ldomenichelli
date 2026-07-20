@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/345/">
-    <img src="https://imgs.xkcd.com/comics/1337_part_5.png" alt="1337: Part 5" width="520" />
+  <a href="https://xkcd.com/346/">
+    <img src="https://imgs.xkcd.com/comics/diet_coke_mentos.png" alt="Diet Coke+Mentos" width="520" />
   </a>
-  <p><strong>1337: Part 5</strong> · xkcd #345 · 2007-11-16</p>
-  <p><sub>This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.</sub></p>
+  <p><strong>Diet Coke+Mentos</strong> · xkcd #346 · 2007-11-19</p>
+  <p><sub>The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
