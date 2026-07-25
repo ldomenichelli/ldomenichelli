@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3173/">
-    <img src="https://imgs.xkcd.com/comics/satellite_imagery.png" alt="Satellite Imagery" width="520" />
+  <a href="https://xkcd.com/2949/">
+    <img src="https://imgs.xkcd.com/comics/network_configuration.png" alt="Network Configuration" width="520" />
   </a>
-  <p><strong>Satellite Imagery</strong> · xkcd #3173 · 2025-11-26</p>
-  <p><sub>Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape.</sub></p>
+  <p><strong>Network Configuration</strong> · xkcd #2949 · 2024-06-21</p>
+  <p><sub>If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called &#x27;netcat&#x27;, though it does a different thing in each one.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
