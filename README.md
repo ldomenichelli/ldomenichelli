@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2950/">
-    <img src="https://imgs.xkcd.com/comics/situation.png" alt="Situation" width="520" />
+  <a href="https://xkcd.com/2951/">
+    <img src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png" alt="Bad Map Projection: Exterior Kansas" width="520" />
   </a>
-  <p><strong>Situation</strong> · xkcd #2950 · 2024-06-24</p>
-  <p><sub>We&#x27;re right under the flight path for the scheduled orbital launch, but don&#x27;t worry--it&#x27;s too cold out for the rockets to operate safely, so I&#x27;m sure they&#x27;ll postpone.</sub></p>
+  <p><strong>Bad Map Projection: Exterior Kansas</strong> · xkcd #2951 · 2024-06-26</p>
+  <p><sub>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it&#x27;s actually their outer edge.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
