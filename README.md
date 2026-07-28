@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2951/">
-    <img src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png" alt="Bad Map Projection: Exterior Kansas" width="520" />
+  <a href="https://xkcd.com/2727/">
+    <img src="https://imgs.xkcd.com/comics/runtime.png" alt="Runtime" width="520" />
   </a>
-  <p><strong>Bad Map Projection: Exterior Kansas</strong> · xkcd #2951 · 2024-06-26</p>
-  <p><sub>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it&#x27;s actually their outer edge.</sub></p>
+  <p><strong>Runtime</strong> · xkcd #2727 · 2023-01-20</p>
+  <p><sub>At least there&#x27;s a general understanding all around that Doctor Who is its own thing.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
