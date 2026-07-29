@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2727/">
-    <img src="https://imgs.xkcd.com/comics/runtime.png" alt="Runtime" width="520" />
+  <a href="https://xkcd.com/2728/">
+    <img src="https://imgs.xkcd.com/comics/lane_change_highway.png" alt="Lane Change Highway" width="520" />
   </a>
-  <p><strong>Runtime</strong> · xkcd #2727 · 2023-01-20</p>
-  <p><sub>At least there&#x27;s a general understanding all around that Doctor Who is its own thing.</sub></p>
+  <p><strong>Lane Change Highway</strong> · xkcd #2728 · 2023-01-23</p>
+  <p><sub>I just think lane markers should follow the local magnetic declination.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
