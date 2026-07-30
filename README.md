@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2728/">
-    <img src="https://imgs.xkcd.com/comics/lane_change_highway.png" alt="Lane Change Highway" width="520" />
+  <a href="https://xkcd.com/2504/">
+    <img src="https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png" alt="Fissile Raspberry Isotopes" width="520" />
   </a>
-  <p><strong>Lane Change Highway</strong> · xkcd #2728 · 2023-01-23</p>
-  <p><sub>I just think lane markers should follow the local magnetic declination.</sub></p>
+  <p><strong>Fissile Raspberry Isotopes</strong> · xkcd #2504 · 2021-08-18</p>
+  <p><sub>Grandma&#x27;s shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
