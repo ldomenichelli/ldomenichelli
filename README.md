@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2281/">
-    <img src="https://imgs.xkcd.com/comics/coronavirus_research.png" alt="Coronavirus Research" width="520" />
+  <a href="https://xkcd.com/2282/">
+    <img src="https://imgs.xkcd.com/comics/coronavirus_worries.png" alt="Coronavirus Worries" width="520" />
   </a>
-  <p><strong>Coronavirus Research</strong> · xkcd #2281 · 2020-03-16</p>
-  <p><sub>&quot;Also, reading 500 coronavirus papers in a row and not sleeping? Probably not great for you either, but I haven&#x27;t found any studies confirming that yet. I&#x27;ll keep looking.&quot;</sub></p>
+  <p><strong>Coronavirus Worries</strong> · xkcd #2282 · 2020-03-18</p>
+  <p><sub>Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
