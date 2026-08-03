@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2282/">
-    <img src="https://imgs.xkcd.com/comics/coronavirus_worries.png" alt="Coronavirus Worries" width="520" />
+  <a href="https://xkcd.com/2283/">
+    <img src="https://imgs.xkcd.com/comics/exa_exabyte.png" alt="Exa-Exabyte" width="520" />
   </a>
-  <p><strong>Coronavirus Worries</strong> · xkcd #2282 · 2020-03-18</p>
-  <p><sub>Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere</sub></p>
+  <p><strong>Exa-Exabyte</strong> · xkcd #2283 · 2020-03-20</p>
+  <p><sub>To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
