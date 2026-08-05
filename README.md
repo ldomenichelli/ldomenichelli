@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2059/">
-    <img src="https://imgs.xkcd.com/comics/modified_bayes_theorem.png" alt="Modified Bayes&#x27; Theorem" width="520" />
+  <a href="https://xkcd.com/2060/">
+    <img src="https://imgs.xkcd.com/comics/hygrometer.png" alt="Hygrometer" width="520" />
   </a>
-  <p><strong>Modified Bayes&#x27; Theorem</strong> · xkcd #2059 · 2018-10-15</p>
-  <p><sub>Don&#x27;t forget to add another term for &quot;probability that the Modified Bayes&#x27; Theorem is correct.&quot;</sub></p>
+  <p><strong>Hygrometer</strong> · xkcd #2060 · 2018-10-17</p>
+  <p><sub>I&#x27;m working on assembling a combination declinometer, sclerometer, viscometer, aleurometer, stalagmometer, and hypsometer. I&#x27;m making good progress according to my ometerometer, a device which shows the rate at which I&#x27;m acquiring measurement devices.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
