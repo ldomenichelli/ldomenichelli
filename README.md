@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1836/">
-    <img src="https://imgs.xkcd.com/comics/okeanos.png" alt="Okeanos" width="520" />
+  <a href="https://xkcd.com/1837/">
+    <img src="https://imgs.xkcd.com/comics/rental_car.png" alt="Rental Car" width="520" />
   </a>
-  <p><strong>Okeanos</strong> · xkcd #1836 · 2017-05-12</p>
-  <p><sub>WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT</sub></p>
+  <p><strong>Rental Car</strong> · xkcd #1837 · 2017-05-15</p>
+  <p><sub>Technically, both cars are haunted, but the murder ghosts can&#x27;t stand listening to the broken GPS for more than a few minutes.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
