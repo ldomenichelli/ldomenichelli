@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1837/">
-    <img src="https://imgs.xkcd.com/comics/rental_car.png" alt="Rental Car" width="520" />
+  <a href="https://xkcd.com/1613/">
+    <img src="https://imgs.xkcd.com/comics/the_three_laws_of_robotics.png" alt="The Three Laws of Robotics" width="520" />
   </a>
-  <p><strong>Rental Car</strong> · xkcd #1837 · 2017-05-15</p>
-  <p><sub>Technically, both cars are haunted, but the murder ghosts can&#x27;t stand listening to the broken GPS for more than a few minutes.</sub></p>
+  <p><strong>The Three Laws of Robotics</strong> · xkcd #1613 · 2015-12-07</p>
+  <p><sub>In ordering #5, self-driving cars will happily drive you around, but if you tell them to drive to a car dealership, they just lock the doors and politely ask how long humans take to starve to death.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
