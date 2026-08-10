@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1614/">
-    <img src="https://imgs.xkcd.com/comics/kites.png" alt="Kites" width="520" />
+  <a href="https://xkcd.com/1615/">
+    <img src="https://imgs.xkcd.com/comics/red_car.png" alt="Red Car" width="520" />
   </a>
-  <p><strong>Kites</strong> · xkcd #1614 · 2015-12-09</p>
-  <p><sub>[Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!</sub></p>
+  <p><strong>Red Car</strong> · xkcd #1615 · 2015-12-11</p>
+  <p><sub>That guy only drives an alkaline car to overcompensate for his highly acidic penis.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
