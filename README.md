@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1615/">
-    <img src="https://imgs.xkcd.com/comics/red_car.png" alt="Red Car" width="520" />
+  <a href="https://xkcd.com/1391/">
+    <img src="https://imgs.xkcd.com/comics/darkness.png" alt="Darkness" width="520" />
   </a>
-  <p><strong>Red Car</strong> · xkcd #1615 · 2015-12-11</p>
-  <p><sub>That guy only drives an alkaline car to overcompensate for his highly acidic penis.</sub></p>
+  <p><strong>Darkness</strong> · xkcd #1391 · 2014-07-07</p>
+  <p><sub>This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn&#x27;t my first.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
