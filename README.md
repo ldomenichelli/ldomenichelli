@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1391/">
-    <img src="https://imgs.xkcd.com/comics/darkness.png" alt="Darkness" width="520" />
+  <a href="https://xkcd.com/1392/">
+    <img src="https://imgs.xkcd.com/comics/dominant_players.png" alt="Dominant Players" width="520" />
   </a>
-  <p><strong>Darkness</strong> · xkcd #1391 · 2014-07-07</p>
-  <p><sub>This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn&#x27;t my first.</sub></p>
+  <p><strong>Dominant Players</strong> · xkcd #1392 · 2014-07-09</p>
+  <p><sub>When Vera Menchik entered a 1929 tournament, a male competitor mocked her by suggesting that a special &#x27;Vera Menchik Club&#x27; would be created for any player who lost to her. When the tournament began, he promptly became the first member of said club, and over the years it accumulated a large and illustrious roster.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
