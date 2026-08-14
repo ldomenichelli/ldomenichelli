@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1168/">
-    <img src="https://imgs.xkcd.com/comics/tar.png" alt="tar" width="520" />
+  <a href="https://xkcd.com/1169/">
+    <img src="https://imgs.xkcd.com/comics/expedition.png" alt="Expedition" width="520" />
   </a>
-  <p><strong>tar</strong> · xkcd #1168 · 2013-02-01</p>
-  <p><sub>I don&#x27;t know what&#x27;s worse--the fact that after 15 years of using tar I still can&#x27;t keep the flags straight, or that after 15 years of technological advancement I&#x27;m still mucking with tar flags that were 15 years old when I started.</sub></p>
+  <p><strong>Expedition</strong> · xkcd #1169 · 2013-02-04</p>
+  <p><sub>I&#x27;m pretty sure I&#x27;ve logged more hours in Google Maps over the past decade than in any game.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
