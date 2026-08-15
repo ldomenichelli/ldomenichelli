@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1169/">
-    <img src="https://imgs.xkcd.com/comics/expedition.png" alt="Expedition" width="520" />
+  <a href="https://xkcd.com/945/">
+    <img src="https://imgs.xkcd.com/comics/im_sorry.png" alt="I&#x27;m Sorry" width="520" />
   </a>
-  <p><strong>Expedition</strong> · xkcd #1169 · 2013-02-04</p>
-  <p><sub>I&#x27;m pretty sure I&#x27;ve logged more hours in Google Maps over the past decade than in any game.</sub></p>
+  <p><strong>I&#x27;m Sorry</strong> · xkcd #945 · 2011-08-31</p>
+  <p><sub>You know I&#x27;ve always hated her.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
