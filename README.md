@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/945/">
-    <img src="https://imgs.xkcd.com/comics/im_sorry.png" alt="I&#x27;m Sorry" width="520" />
+  <a href="https://xkcd.com/946/">
+    <img src="https://imgs.xkcd.com/comics/family_decals.png" alt="Family Decals" width="520" />
   </a>
-  <p><strong>I&#x27;m Sorry</strong> · xkcd #945 · 2011-08-31</p>
-  <p><sub>You know I&#x27;ve always hated her.</sub></p>
+  <p><strong>Family Decals</strong> · xkcd #946 · 2011-09-02</p>
+  <p><sub>My decal set has no adults, just a sea of hundreds of the little girl figures closing in around a single cat.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
