@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/946/">
-    <img src="https://imgs.xkcd.com/comics/family_decals.png" alt="Family Decals" width="520" />
+  <a href="https://xkcd.com/947/">
+    <img src="https://imgs.xkcd.com/comics/investing.png" alt="Investing" width="520" />
   </a>
-  <p><strong>Family Decals</strong> · xkcd #946 · 2011-09-02</p>
-  <p><sub>My decal set has no adults, just a sea of hundreds of the little girl figures closing in around a single cat.</sub></p>
+  <p><strong>Investing</strong> · xkcd #947 · 2011-09-05</p>
+  <p><sub>But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
