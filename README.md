@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/948/">
-    <img src="https://imgs.xkcd.com/comics/ai.png" alt="AI" width="520" />
+  <a href="https://xkcd.com/724/">
+    <img src="https://imgs.xkcd.com/comics/hell.png" alt="Hell" width="520" />
   </a>
-  <p><strong>AI</strong> · xkcd #948 · 2011-09-07</p>
-  <p><sub>And they both react poorly to showers.</sub></p>
+  <p><strong>Hell</strong> · xkcd #724 · 2010-04-07</p>
+  <p><sub>There&#x27;s also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
