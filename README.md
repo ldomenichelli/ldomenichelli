@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/500/">
-    <img src="https://imgs.xkcd.com/comics/election.png" alt="Election" width="520" />
+  <a href="https://xkcd.com/501/">
+    <img src="https://imgs.xkcd.com/comics/faust_20.png" alt="Faust 2.0" width="520" />
   </a>
-  <p><strong>Election</strong> · xkcd #500 · 2008-11-05</p>
-  <p><sub>Someday I&#x27;ll be rich enough to hire Nate Silver to help make all my life decisions.  &#x27;Should I sleep with her?&#x27;  &#x27;Well, I&#x27;m showing a 35% chance it will end badly.&#x27;</sub></p>
+  <p><strong>Faust 2.0</strong> · xkcd #501 · 2008-11-07</p>
+  <p><sub>The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
