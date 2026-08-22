@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/501/">
-    <img src="https://imgs.xkcd.com/comics/faust_20.png" alt="Faust 2.0" width="520" />
+  <a href="https://xkcd.com/276/">
+    <img src="https://imgs.xkcd.com/comics/fixed_width.png" alt="Fixed Width" width="520" />
   </a>
-  <p><strong>Faust 2.0</strong> · xkcd #501 · 2008-11-07</p>
-  <p><sub>The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.</sub></p>
+  <p><strong>Fixed Width</strong> · xkcd #276 · 2007-06-13</p>
+  <p><sub>I wish I knew how to quit this so I wouldn&#x27;t have to quit you.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
