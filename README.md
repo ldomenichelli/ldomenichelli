@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/276/">
-    <img src="https://imgs.xkcd.com/comics/fixed_width.png" alt="Fixed Width" width="520" />
+  <a href="https://xkcd.com/277/">
+    <img src="https://imgs.xkcd.com/comics/long_light.png" alt="Long Light" width="520" />
   </a>
-  <p><strong>Fixed Width</strong> · xkcd #276 · 2007-06-13</p>
-  <p><sub>I wish I knew how to quit this so I wouldn&#x27;t have to quit you.</sub></p>
+  <p><strong>Long Light</strong> · xkcd #277 · 2007-06-15</p>
+  <p><sub>You can look at practically any part of anything manmade around you and think &#x27;some engineer was frustrated while designing this.&#x27;  It&#x27;s a little human connection.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
