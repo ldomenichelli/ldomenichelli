@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/278/">
-    <img src="https://imgs.xkcd.com/comics/black_hat_support.png" alt="Black Hat Support" width="520" />
+  <a href="https://xkcd.com/54/">
+    <img src="https://imgs.xkcd.com/comics/science.jpg" alt="Science" width="520" />
   </a>
-  <p><strong>Black Hat Support</strong> · xkcd #278 · 2007-06-18</p>
-  <p><sub>So as not to leave you hanging -- it was a problem with select() calls.</sub></p>
+  <p><strong>Science</strong> · xkcd #54 · 2006-01-25</p>
+  <p><sub>Bonus points if you can identify the science in question</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
