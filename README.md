@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/54/">
-    <img src="https://imgs.xkcd.com/comics/science.jpg" alt="Science" width="520" />
+  <a href="https://xkcd.com/55/">
+    <img src="https://imgs.xkcd.com/comics/useless.jpg" alt="Useless" width="520" />
   </a>
-  <p><strong>Science</strong> · xkcd #54 · 2006-01-25</p>
-  <p><sub>Bonus points if you can identify the science in question</sub></p>
+  <p><strong>Useless</strong> · xkcd #55 · 2006-01-27</p>
+  <p><sub>Even the identity matrix doesn&#x27;t work normally</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
