@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2899/">
-    <img src="https://imgs.xkcd.com/comics/goodharts_law.png" alt="Goodhart&#x27;s Law" width="520" />
+  <a href="https://xkcd.com/2900/">
+    <img src="https://imgs.xkcd.com/comics/call_my_cell.png" alt="Call My Cell" width="520" />
   </a>
-  <p><strong>Goodhart&#x27;s Law</strong> · xkcd #2899 · 2024-02-26</p>
-  <p><sub>[later] I&#x27;m pleased to report we&#x27;re now identifying and replacing hundreds of outdated metrics per hour.</sub></p>
+  <p><strong>Call My Cell</strong> · xkcd #2900 · 2024-02-28</p>
+  <p><sub>&#x27;Hey, can you call my cell?&#x27; &#x27;...I&#x27;m trying, but it says this number is blocked?&#x27; &#x27;Ok, thanks, just checking.&#x27;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
