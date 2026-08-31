@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2900/">
-    <img src="https://imgs.xkcd.com/comics/call_my_cell.png" alt="Call My Cell" width="520" />
+  <a href="https://xkcd.com/2901/">
+    <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="Geographic Qualifiers" width="520" />
   </a>
-  <p><strong>Call My Cell</strong> · xkcd #2900 · 2024-02-28</p>
-  <p><sub>&#x27;Hey, can you call my cell?&#x27; &#x27;...I&#x27;m trying, but it says this number is blocked?&#x27; &#x27;Ok, thanks, just checking.&#x27;</sub></p>
+  <p><strong>Geographic Qualifiers</strong> · xkcd #2901 · 2024-03-01</p>
+  <p><sub>&#x27;Thank you for the loveliest evening I&#x27;ve ever had...&#x27; [normal] &#x27;...east of the Mississippi.&#x27; [instant intrigue!]</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
