@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2901/">
-    <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="Geographic Qualifiers" width="520" />
+  <a href="https://xkcd.com/2678/">
+    <img src="https://imgs.xkcd.com/comics/wing_lift.png" alt="Wing Lift" width="520" />
   </a>
-  <p><strong>Geographic Qualifiers</strong> · xkcd #2901 · 2024-03-01</p>
-  <p><sub>&#x27;Thank you for the loveliest evening I&#x27;ve ever had...&#x27; [normal] &#x27;...east of the Mississippi.&#x27; [instant intrigue!]</sub></p>
+  <p><strong>Wing Lift</strong> · xkcd #2678 · 2022-09-28</p>
+  <p><sub>Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
