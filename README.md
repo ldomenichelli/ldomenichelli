@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2235/">
-    <img src="https://imgs.xkcd.com/comics/group_chat_rules.png" alt="Group Chat Rules" width="520" />
+  <a href="https://xkcd.com/2236/">
+    <img src="https://imgs.xkcd.com/comics/is_it_christmas.png" alt="Is it Christmas?" width="520" />
   </a>
-  <p><strong>Group Chat Rules</strong> · xkcd #2235 · 2019-11-29</p>
-  <p><sub>There&#x27;s no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.</sub></p>
+  <p><strong>Is it Christmas?</strong> · xkcd #2236 · 2019-12-02</p>
+  <p><sub>We&#x27;ve tested it on 30 different days and it hasn&#x27;t gotten one wrong yet.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
