@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1569/">
-    <img src="https://imgs.xkcd.com/comics/magic_tree.png" alt="Magic Tree" width="520" />
+  <a href="https://xkcd.com/1570/">
+    <img src="https://imgs.xkcd.com/comics/engineer_syllogism.png" alt="Engineer Syllogism" width="520" />
   </a>
-  <p><strong>Magic Tree</strong> · xkcd #1569 · 2015-08-26</p>
-  <p><sub>Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.</sub></p>
+  <p><strong>Engineer Syllogism</strong> · xkcd #1570 · 2015-08-28</p>
+  <p><sub>The less common, even worse outcome: &quot;3: [everyone in the financial system] WOW, where did all my money just go?&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
