@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1348/">
-    <img src="https://imgs.xkcd.com/comics/before_the_internet.png" alt="Before the Internet" width="520" />
+  <a href="https://xkcd.com/1349/">
+    <img src="https://imgs.xkcd.com/comics/shouldnt_be_hard.png" alt="Shouldn&#x27;t Be Hard" width="520" />
   </a>
-  <p><strong>Before the Internet</strong> · xkcd #1348 · 2014-03-28</p>
-  <p><sub>We watched DAYTIME TV. Do you realize how soul-crushing it was? I&#x27;d rather eat an iPad than go back to watching daytime TV.</sub></p>
+  <p><strong>Shouldn&#x27;t Be Hard</strong> · xkcd #1349 · 2014-03-31</p>
+  <p><sub>(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
