@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1349/">
-    <img src="https://imgs.xkcd.com/comics/shouldnt_be_hard.png" alt="Shouldn&#x27;t Be Hard" width="520" />
+  <a href="https://xkcd.com/1126/">
+    <img src="https://imgs.xkcd.com/comics/epsilon_and_zeta.png" alt="Epsilon and Zeta" width="520" />
   </a>
-  <p><strong>Shouldn&#x27;t Be Hard</strong> · xkcd #1349 · 2014-03-31</p>
-  <p><sub>(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!</sub></p>
+  <p><strong>Epsilon and Zeta</strong> · xkcd #1126 · 2012-10-26</p>
+  <p><sub>The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
