@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1126/">
-    <img src="https://imgs.xkcd.com/comics/epsilon_and_zeta.png" alt="Epsilon and Zeta" width="520" />
+  <a href="https://xkcd.com/1127/">
+    <img src="https://imgs.xkcd.com/comics/congress.png" alt="Congress" width="520" />
   </a>
-  <p><strong>Epsilon and Zeta</strong> · xkcd #1126 · 2012-10-26</p>
-  <p><sub>The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.</sub></p>
+  <p><strong>Congress</strong> · xkcd #1127 · 2012-10-29</p>
+  <p><sub>It&#x27;d be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
