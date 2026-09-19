@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1127/">
-    <img src="https://imgs.xkcd.com/comics/congress.png" alt="Congress" width="520" />
+  <a href="https://xkcd.com/904/">
+    <img src="https://imgs.xkcd.com/comics/sports.png" alt="Sports" width="520" />
   </a>
-  <p><strong>Congress</strong> · xkcd #1127 · 2012-10-29</p>
-  <p><sub>It&#x27;d be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.</sub></p>
+  <p><strong>Sports</strong> · xkcd #904 · 2011-05-27</p>
+  <p><sub>Also, all financial analysis. And, more directly, D&amp;D.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
