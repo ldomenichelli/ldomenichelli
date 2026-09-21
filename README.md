@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/905/">
-    <img src="https://imgs.xkcd.com/comics/homeownership.png" alt="Homeownership" width="520" />
+  <a href="https://xkcd.com/906/">
+    <img src="https://imgs.xkcd.com/comics/citations.png" alt="Advertising Discovery" width="520" />
   </a>
-  <p><strong>Homeownership</strong> · xkcd #905 · 2011-05-30</p>
-  <p><sub>New research shows over 60% of the financial collapse&#x27;s toxic assets were created by power drills.</sub></p>
+  <p><strong>Advertising Discovery</strong> · xkcd #906 · 2011-06-01</p>
+  <p><sub>When advertisers figure this out, our only weapon will be blue sharpies and &quot;[disputed]&quot;.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
