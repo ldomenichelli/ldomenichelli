@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/906/">
-    <img src="https://imgs.xkcd.com/comics/citations.png" alt="Advertising Discovery" width="520" />
+  <a href="https://xkcd.com/683/">
+    <img src="https://imgs.xkcd.com/comics/science_montage.png" alt="Science Montage" width="520" />
   </a>
-  <p><strong>Advertising Discovery</strong> · xkcd #906 · 2011-06-01</p>
-  <p><sub>When advertisers figure this out, our only weapon will be blue sharpies and &quot;[disputed]&quot;.</sub></p>
+  <p><strong>Science Montage</strong> · xkcd #683 · 2010-01-01</p>
+  <p><sub>The rat&#x27;s perturbed; it must sense nanobots! Code grey!  We have a Helvetica scenario!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
