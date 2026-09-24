@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/684/">
-    <img src="https://imgs.xkcd.com/comics/we_get_it.png" alt="We Get It" width="520" />
+  <a href="https://xkcd.com/461/">
+    <img src="https://imgs.xkcd.com/comics/google_maps.png" alt="Google Maps" width="520" />
   </a>
-  <p><strong>We Get It</strong> · xkcd #684 · 2010-01-04</p>
-  <p><sub>The most brutal way I&#x27;ve ever seen someone handle this was &#x27;Oh, you have a girlfriend. Are you going to get married?&#x27;  &#x27;I, uh, don&#x27;t know--&#x27; &#x27;Well, do you love her?&#x27; &#x27;...&#x27; &#x27;Anyway, what were you saying about the movie?&#x27;</sub></p>
+  <p><strong>Google Maps</strong> · xkcd #461 · 2008-08-11</p>
+  <p><sub>Apparently Google assumes you&#x27;re traveling during the ferry&#x27;s normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
