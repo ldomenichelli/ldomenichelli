@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/461/">
-    <img src="https://imgs.xkcd.com/comics/google_maps.png" alt="Google Maps" width="520" />
+  <a href="https://xkcd.com/462/">
+    <img src="https://imgs.xkcd.com/comics/freemanic_paracusia.png" alt="Freemanic Paracusia" width="520" />
   </a>
-  <p><strong>Google Maps</strong> · xkcd #461 · 2008-08-11</p>
-  <p><sub>Apparently Google assumes you&#x27;re traveling during the ferry&#x27;s normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).</sub></p>
+  <p><strong>Freemanic Paracusia</strong> · xkcd #462 · 2008-08-13</p>
+  <p><sub>It&#x27;s amazing what it does for YouTube comments.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
