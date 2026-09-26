@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/462/">
-    <img src="https://imgs.xkcd.com/comics/freemanic_paracusia.png" alt="Freemanic Paracusia" width="520" />
+  <a href="https://xkcd.com/238/">
+    <img src="https://imgs.xkcd.com/comics/pet_peeve_114.png" alt="Pet Peeve #114" width="520" />
   </a>
-  <p><strong>Freemanic Paracusia</strong> · xkcd #462 · 2008-08-13</p>
-  <p><sub>It&#x27;s amazing what it does for YouTube comments.</sub></p>
+  <p><strong>Pet Peeve #114</strong> · xkcd #238 · 2007-03-21</p>
+  <p><sub>I&#x27;m reading a goddamn book, thank you very much.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
