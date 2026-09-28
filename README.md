@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/239/">
-    <img src="https://imgs.xkcd.com/comics/blagofaire.png" alt="Blagofaire" width="520" />
+  <a href="https://xkcd.com/240/">
+    <img src="https://imgs.xkcd.com/comics/dream_girl.png" alt="Dream Girl" width="520" />
   </a>
-  <p><strong>Blagofaire</strong> · xkcd #239 · 2007-03-23</p>
-  <p><sub>Things were better before the Structuring and the Levels.</sub></p>
+  <p><strong>Dream Girl</strong> · xkcd #240 · 2007-03-26</p>
+  <p><sub>No matter how elaborately you fool yourself.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
