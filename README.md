@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/17/">
-    <img src="https://imgs.xkcd.com/comics/what_if.jpg" alt="What If" width="520" />
+  <a href="https://xkcd.com/18/">
+    <img src="https://imgs.xkcd.com/comics/snapple.jpg" alt="Snapple" width="520" />
   </a>
-  <p><strong>What If</strong> · xkcd #17 · 2006-01-01</p>
-  <p><sub>I once made an anniversary card for my then-girlfriend with this layout.</sub></p>
+  <p><strong>Snapple</strong> · xkcd #18 · 2006-01-01</p>
+  <p><sub>Sn = tin</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
