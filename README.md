@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/18/">
-    <img src="https://imgs.xkcd.com/comics/snapple.jpg" alt="Snapple" width="520" />
+  <a href="https://xkcd.com/3100/">
+    <img src="https://imgs.xkcd.com/comics/alert_sound.png" alt="Alert Sound" width="520" />
   </a>
-  <p><strong>Snapple</strong> · xkcd #18 · 2006-01-01</p>
-  <p><sub>Sn = tin</sub></p>
+  <p><strong>Alert Sound</strong> · xkcd #3100 · 2025-06-09</p>
+  <p><sub>With a good battery, the device can easily last for 5 or 10 years, although the walls probably won&#x27;t.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
