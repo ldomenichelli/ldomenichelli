@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2881/">
-    <img src="https://imgs.xkcd.com/comics/bug_thread.png" alt="Bug Thread" width="520" />
+  <a href="https://xkcd.com/2659/">
+    <img src="https://imgs.xkcd.com/comics/unreliable_connection.png" alt="Unreliable Connection" width="520" />
   </a>
-  <p><strong>Bug Thread</strong> · xkcd #2881 · 2024-01-15</p>
-  <p><sub>After some account issues, we&#x27;ve added 6 new people from the beach house rental website support forum.</sub></p>
+  <p><strong>Unreliable Connection</strong> · xkcd #2659 · 2022-08-15</p>
+  <p><sub>NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
