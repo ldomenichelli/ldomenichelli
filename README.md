@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2660/">
-    <img src="https://imgs.xkcd.com/comics/gen_z.png" alt="Gen Z" width="520" />
+  <a href="https://xkcd.com/2438/">
+    <img src="https://imgs.xkcd.com/comics/siri.png" alt="Siri" width="520" />
   </a>
-  <p><strong>Gen Z</strong> · xkcd #2660 · 2022-08-17</p>
-  <p><sub>Curdled milk, of a peculiar kind, made after a Bulgarian recipe and called &quot;yaghurt,&quot; is now a Parisian fad and is believed to be a remedy against growing old. A correspondent who has tried it, says he would prefer to die young. (1905, The Elk Falls Journal)</sub></p>
+  <p><strong>Siri</strong> · xkcd #2438 · 2021-03-17</p>
+  <p><sub>Alexa defeated her in a battle hinging on the ability to set multiple timers.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
