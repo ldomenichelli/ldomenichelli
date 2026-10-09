@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2438/">
-    <img src="https://imgs.xkcd.com/comics/siri.png" alt="Siri" width="520" />
+  <a href="https://xkcd.com/2439/">
+    <img src="https://imgs.xkcd.com/comics/solar_system_cartogram.png" alt="Solar System Cartogram" width="520" />
   </a>
-  <p><strong>Siri</strong> · xkcd #2438 · 2021-03-17</p>
-  <p><sub>Alexa defeated her in a battle hinging on the ability to set multiple timers.</sub></p>
+  <p><strong>Solar System Cartogram</strong> · xkcd #2439 · 2021-03-19</p>
+  <p><sub>For sentimental reasons, every active Mars rover is counted as one person, although that&#x27;s not enough to make Mars more than a dot.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
