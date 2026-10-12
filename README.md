@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2218/">
-    <img src="https://imgs.xkcd.com/comics/wardrobe.png" alt="Wardrobe" width="520" />
+  <a href="https://xkcd.com/2219/">
+    <img src="https://imgs.xkcd.com/comics/earthquake_early_warnings.png" alt="Earthquake Early Warnings" width="520" />
   </a>
-  <p><strong>Wardrobe</strong> · xkcd #2218 · 2019-10-21</p>
-  <p><sub>If you&#x27;d just agree to hold your meetings in here, you&#x27;d have PLENTY of time to figure things out before the deadline.</sub></p>
+  <p><strong>Earthquake Early Warnings</strong> · xkcd #2219 · 2019-10-23</p>
+  <p><sub>I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to &quot;tornado spoiler alerts.&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
