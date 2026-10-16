@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1776/">
-    <img src="https://imgs.xkcd.com/comics/reindeer.png" alt="Reindeer" width="520" />
+  <a href="https://xkcd.com/1777/">
+    <img src="https://imgs.xkcd.com/comics/dear_diary.png" alt="Dear Diary" width="520" />
   </a>
-  <p><strong>Reindeer</strong> · xkcd #1776 · 2016-12-23</p>
-  <p><sub>And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.</sub></p>
+  <p><strong>Dear Diary</strong> · xkcd #1777 · 2016-12-26</p>
+  <p><sub>Dear Diary: UNSUBSCRIBE</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
