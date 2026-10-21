@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1335/">
-    <img src="https://imgs.xkcd.com/comics/now.png" alt="Now" width="520" />
+  <a href="https://xkcd.com/1336/">
+    <img src="https://imgs.xkcd.com/comics/transformers.png" alt="Transformers" width="520" />
   </a>
-  <p><strong>Now</strong> · xkcd #1335 · 2014-02-26</p>
-  <p><sub>This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now</sub></p>
+  <p><strong>Transformers</strong> · xkcd #1336 · 2014-02-28</p>
+  <p><sub>A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
