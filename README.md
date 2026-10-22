@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1336/">
-    <img src="https://imgs.xkcd.com/comics/transformers.png" alt="Transformers" width="520" />
+  <a href="https://xkcd.com/1114/">
+    <img src="https://imgs.xkcd.com/comics/metallurgy.png" alt="Metallurgy" width="520" />
   </a>
-  <p><strong>Transformers</strong> · xkcd #1336 · 2014-02-28</p>
-  <p><sub>A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.</sub></p>
+  <p><strong>Metallurgy</strong> · xkcd #1114 · 2012-09-28</p>
+  <p><sub>This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it&#x27;s basically a lump of gravel glued into the shape of a sword. A SPACE sword!</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
