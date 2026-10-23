@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1114/">
-    <img src="https://imgs.xkcd.com/comics/metallurgy.png" alt="Metallurgy" width="520" />
+  <a href="https://xkcd.com/1115/">
+    <img src="https://imgs.xkcd.com/comics/sky.png" alt="Sky" width="520" />
   </a>
-  <p><strong>Metallurgy</strong> · xkcd #1114 · 2012-09-28</p>
-  <p><sub>This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it&#x27;s basically a lump of gravel glued into the shape of a sword. A SPACE sword!</sub></p>
+  <p><strong>Sky</strong> · xkcd #1115 · 2012-10-01</p>
+  <p><sub>I dropped a bird and I didn&#x27;t hear it hit bottom.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
