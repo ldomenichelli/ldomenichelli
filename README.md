@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/895/">
-    <img src="https://imgs.xkcd.com/comics/teaching_physics.png" alt="Teaching Physics" width="520" />
+  <a href="https://xkcd.com/673/">
+    <img src="https://imgs.xkcd.com/comics/the_sun.png" alt="The Sun" width="520" />
   </a>
-  <p><strong>Teaching Physics</strong> · xkcd #895 · 2011-05-06</p>
-  <p><sub>Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I&#x27;d be able to come up with it.</sub></p>
+  <p><strong>The Sun</strong> · xkcd #673 · 2009-12-09</p>
+  <p><sub>Obligatory bad guy: This operation is sheer foolishness, and it&#x27;s not happening on my watch!  Mainly because I can&#x27;t figure out how to adjust the time.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
