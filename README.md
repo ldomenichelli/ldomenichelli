@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/673/">
-    <img src="https://imgs.xkcd.com/comics/the_sun.png" alt="The Sun" width="520" />
+  <a href="https://xkcd.com/674/">
+    <img src="https://imgs.xkcd.com/comics/natural_parenting.png" alt="Natural Parenting" width="520" />
   </a>
-  <p><strong>The Sun</strong> · xkcd #673 · 2009-12-09</p>
-  <p><sub>Obligatory bad guy: This operation is sheer foolishness, and it&#x27;s not happening on my watch!  Mainly because I can&#x27;t figure out how to adjust the time.</sub></p>
+  <p><strong>Natural Parenting</strong> · xkcd #674 · 2009-12-11</p>
+  <p><sub>On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that&#x27;s the mother of all sampling biases.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
