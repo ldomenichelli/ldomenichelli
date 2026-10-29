@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/674/">
-    <img src="https://imgs.xkcd.com/comics/natural_parenting.png" alt="Natural Parenting" width="520" />
+  <a href="https://xkcd.com/452/">
+    <img src="https://imgs.xkcd.com/comics/mission.png" alt="Mission" width="520" />
   </a>
-  <p><strong>Natural Parenting</strong> · xkcd #674 · 2009-12-11</p>
-  <p><sub>On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that&#x27;s the mother of all sampling biases.</sub></p>
+  <p><strong>Mission</strong> · xkcd #452 · 2008-07-21</p>
+  <p><sub>Don&#x27;t you know?  The chances of a random object being a scone are about one in six.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
