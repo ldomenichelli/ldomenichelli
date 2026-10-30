@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/452/">
-    <img src="https://imgs.xkcd.com/comics/mission.png" alt="Mission" width="520" />
+  <a href="https://xkcd.com/453/">
+    <img src="https://imgs.xkcd.com/comics/upcoming_hurricanes.png" alt="Upcoming Hurricanes" width="520" />
   </a>
-  <p><strong>Mission</strong> · xkcd #452 · 2008-07-21</p>
-  <p><sub>Don&#x27;t you know?  The chances of a random object being a scone are about one in six.</sub></p>
+  <p><strong>Upcoming Hurricanes</strong> · xkcd #453 · 2008-07-23</p>
+  <p><sub>I&#x27;d like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It&#x27;s just a matter of time.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
