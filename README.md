@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/453/">
-    <img src="https://imgs.xkcd.com/comics/upcoming_hurricanes.png" alt="Upcoming Hurricanes" width="520" />
+  <a href="https://xkcd.com/230/">
+    <img src="https://imgs.xkcd.com/comics/hamiltonian.png" alt="Hamiltonian" width="520" />
   </a>
-  <p><strong>Upcoming Hurricanes</strong> · xkcd #453 · 2008-07-23</p>
-  <p><sub>I&#x27;d like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It&#x27;s just a matter of time.</sub></p>
+  <p><strong>Hamiltonian</strong> · xkcd #230 · 2007-03-02</p>
+  <p><sub>The problem with perspective is that it&#x27;s bidirectional.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
