@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/10/">
-    <img src="https://imgs.xkcd.com/comics/pi.jpg" alt="Pi Equals" width="520" />
+  <a href="https://xkcd.com/11/">
+    <img src="https://imgs.xkcd.com/comics/barrel_mommies.jpg" alt="Barrel - Part 2" width="520" />
   </a>
-  <p><strong>Pi Equals</strong> · xkcd #10 · 2006-01-01</p>
-  <p><sub>My most famous drawing, and one of the first I did for the site</sub></p>
+  <p><strong>Barrel - Part 2</strong> · xkcd #11 · 2006-01-01</p>
+  <p><sub>Awww.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
