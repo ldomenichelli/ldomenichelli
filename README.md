@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/11/">
-    <img src="https://imgs.xkcd.com/comics/barrel_mommies.jpg" alt="Barrel - Part 2" width="520" />
+  <a href="https://xkcd.com/3109/">
+    <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="Dehumidifier" width="520" />
   </a>
-  <p><strong>Barrel - Part 2</strong> · xkcd #11 · 2006-01-01</p>
-  <p><sub>Awww.</sub></p>
+  <p><strong>Dehumidifier</strong> · xkcd #3109 · 2025-06-30</p>
+  <p><sub>It&#x27;s important for devices to have internet connectivity so the manufacturer can patch remote exploits.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
