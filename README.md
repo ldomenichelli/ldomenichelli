@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/3109/">
-    <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="Dehumidifier" width="520" />
+  <a href="https://xkcd.com/3110/">
+    <img src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Global Ranking" width="520" />
   </a>
-  <p><strong>Dehumidifier</strong> · xkcd #3109 · 2025-06-30</p>
-  <p><sub>It&#x27;s important for devices to have internet connectivity so the manufacturer can patch remote exploits.</sub></p>
+  <p><strong>Global Ranking</strong> · xkcd #3110 · 2025-07-02</p>
+  <p><sub>Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
