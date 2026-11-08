@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2889/">
-    <img src="https://imgs.xkcd.com/comics/greenhouse_effect.png" alt="Greenhouse Effect" width="520" />
+  <a href="https://xkcd.com/2890/">
+    <img src="https://imgs.xkcd.com/comics/relationship_advice.png" alt="Relationship Advice" width="520" />
   </a>
-  <p><strong>Greenhouse Effect</strong> · xkcd #2889 · 2024-02-02</p>
-  <p><sub>Once he had the answer, Arrhenius complained to his friends that he&#x27;d &quot;wasted over a full year&quot; doing tedious calculations by hand about &quot;so trifling a matter&quot; as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997).</sub></p>
+  <p><strong>Relationship Advice</strong> · xkcd #2890 · 2024-02-05</p>
+  <p><sub>Good to be a little wary of advice that sounds too much like a self pep talk.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
