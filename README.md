@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2890/">
-    <img src="https://imgs.xkcd.com/comics/relationship_advice.png" alt="Relationship Advice" width="520" />
+  <a href="https://xkcd.com/2891/">
+    <img src="https://imgs.xkcd.com/comics/log_cabin.png" alt="Log Cabin" width="520" />
   </a>
-  <p><strong>Relationship Advice</strong> · xkcd #2890 · 2024-02-05</p>
-  <p><sub>Good to be a little wary of advice that sounds too much like a self pep talk.</sub></p>
+  <p><strong>Log Cabin</strong> · xkcd #2891 · 2024-02-07</p>
+  <p><sub>I&#x27;m sure the building inspectors will approve my design once they finally manage to escape.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
