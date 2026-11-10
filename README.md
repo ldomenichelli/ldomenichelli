@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2891/">
-    <img src="https://imgs.xkcd.com/comics/log_cabin.png" alt="Log Cabin" width="520" />
+  <a href="https://xkcd.com/2670/">
+    <img src="https://imgs.xkcd.com/comics/interruption.png" alt="Interruption" width="520" />
   </a>
-  <p><strong>Log Cabin</strong> · xkcd #2891 · 2024-02-07</p>
-  <p><sub>I&#x27;m sure the building inspectors will approve my design once they finally manage to escape.</sub></p>
+  <p><strong>Interruption</strong> · xkcd #2670 · 2022-09-09</p>
+  <p><sub>It&#x27;s been extra bad ever since my GPS got stuck on Phoebe Judge mode.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
