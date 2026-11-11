@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2670/">
-    <img src="https://imgs.xkcd.com/comics/interruption.png" alt="Interruption" width="520" />
+  <a href="https://xkcd.com/2671/">
+    <img src="https://imgs.xkcd.com/comics/rotation.png" alt="Rotation" width="520" />
   </a>
-  <p><strong>Interruption</strong> · xkcd #2670 · 2022-09-09</p>
-  <p><sub>It&#x27;s been extra bad ever since my GPS got stuck on Phoebe Judge mode.</sub></p>
+  <p><strong>Rotation</strong> · xkcd #2671 · 2022-09-12</p>
+  <p><sub>It&#x27;s okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that&#x27;s just as cool.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
