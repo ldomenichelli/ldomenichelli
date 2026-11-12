@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2671/">
-    <img src="https://imgs.xkcd.com/comics/rotation.png" alt="Rotation" width="520" />
+  <a href="https://xkcd.com/2450/">
+    <img src="https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png" alt="Post Vaccine Social Scheduling" width="520" />
   </a>
-  <p><strong>Rotation</strong> · xkcd #2671 · 2022-09-12</p>
-  <p><sub>It&#x27;s okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that&#x27;s just as cool.</sub></p>
+  <p><strong>Post Vaccine Social Scheduling</strong> · xkcd #2450 · 2021-04-14</p>
+  <p><sub>As if these problems weren&#x27;t NP-hard enough.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
