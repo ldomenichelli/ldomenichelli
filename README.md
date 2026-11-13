@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2450/">
-    <img src="https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png" alt="Post Vaccine Social Scheduling" width="520" />
+  <a href="https://xkcd.com/2451/">
+    <img src="https://imgs.xkcd.com/comics/ai_methodology.png" alt="AI Methodology" width="520" />
   </a>
-  <p><strong>Post Vaccine Social Scheduling</strong> · xkcd #2450 · 2021-04-14</p>
-  <p><sub>As if these problems weren&#x27;t NP-hard enough.</sub></p>
+  <p><strong>AI Methodology</strong> · xkcd #2451 · 2021-04-16</p>
+  <p><sub>We&#x27;ve learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we&#x27;ve developed an AI tool to help us figure out where to add them.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
