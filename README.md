@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2451/">
-    <img src="https://imgs.xkcd.com/comics/ai_methodology.png" alt="AI Methodology" width="520" />
+  <a href="https://xkcd.com/2230/">
+    <img src="https://imgs.xkcd.com/comics/versus_bracket.png" alt="Versus Bracket" width="520" />
   </a>
-  <p><strong>AI Methodology</strong> · xkcd #2451 · 2021-04-16</p>
-  <p><sub>We&#x27;ve learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we&#x27;ve developed an AI tool to help us figure out where to add them.</sub></p>
+  <p><strong>Versus Bracket</strong> · xkcd #2230 · 2019-11-18</p>
+  <p><sub>Some works didn&#x27;t make the cut; in &quot;Ecks vs. Sever&quot; vs. the passage of time, the latter seems to have won pretty decisively.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
