@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2231/">
-    <img src="https://imgs.xkcd.com/comics/the_time_before_and_after_land.png" alt="The Time Before and After Land" width="520" />
+  <a href="https://xkcd.com/2232/">
+    <img src="https://imgs.xkcd.com/comics/hotel_room_party.png" alt="Hotel Room Party" width="520" />
   </a>
-  <p><strong>The Time Before and After Land</strong> · xkcd #2231 · 2019-11-20</p>
-  <p><sub>According to Google, &quot;the time for Beeland&quot; is apparently whenever you&#x27;re looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.</sub></p>
+  <p><strong>Hotel Room Party</strong> · xkcd #2232 · 2019-11-22</p>
+  <p><sub>[proudly greeting the hotel manager at the door] &quot;Did I do a good job?&quot;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
