@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2232/">
-    <img src="https://imgs.xkcd.com/comics/hotel_room_party.png" alt="Hotel Room Party" width="520" />
+  <a href="https://xkcd.com/2011/">
+    <img src="https://imgs.xkcd.com/comics/newtons_trajectories.png" alt="Newton&#x27;s Trajectories" width="520" />
   </a>
-  <p><strong>Hotel Room Party</strong> · xkcd #2232 · 2019-11-22</p>
-  <p><sub>[proudly greeting the hotel manager at the door] &quot;Did I do a good job?&quot;</sub></p>
+  <p><strong>Newton&#x27;s Trajectories</strong> · xkcd #2011 · 2018-06-25</p>
+  <p><sub>With just one extra line, he could have anticipated the 2003 film The Core, but some things are too audacious for even the greatest visionaries.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
