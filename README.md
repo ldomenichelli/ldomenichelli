@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/2011/">
-    <img src="https://imgs.xkcd.com/comics/newtons_trajectories.png" alt="Newton&#x27;s Trajectories" width="520" />
+  <a href="https://xkcd.com/2012/">
+    <img src="https://imgs.xkcd.com/comics/thorough_analysis.png" alt="Thorough Analysis" width="520" />
   </a>
-  <p><strong>Newton&#x27;s Trajectories</strong> · xkcd #2011 · 2018-06-25</p>
-  <p><sub>With just one extra line, he could have anticipated the 2003 film The Core, but some things are too audacious for even the greatest visionaries.</sub></p>
+  <p><strong>Thorough Analysis</strong> · xkcd #2012 · 2018-06-27</p>
+  <p><sub>The likely shape of the bells was determined through consultation with several bellringing experts at the Tower of London. Transcripts of those interviews are available in Appendix VII.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
