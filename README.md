@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1571/">
-    <img src="https://imgs.xkcd.com/comics/car_model_names.png" alt="Car Model Names" width="520" />
+  <a href="https://xkcd.com/1572/">
+    <img src="https://imgs.xkcd.com/comics/xkcd_survey.png" alt="xkcd Survey" width="520" />
   </a>
-  <p><strong>Car Model Names</strong> · xkcd #1571 · 2015-08-31</p>
-  <p><sub>CLIMAX is good, but SEXCLIMAX is even better.</sub></p>
+  <p><strong>xkcd Survey</strong> · xkcd #1572 · 2015-09-01</p>
+  <p><sub>The xkcd Survey: Big Data for a Big Planet</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
