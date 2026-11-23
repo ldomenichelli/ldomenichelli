@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1572/">
-    <img src="https://imgs.xkcd.com/comics/xkcd_survey.png" alt="xkcd Survey" width="520" />
+  <a href="https://xkcd.com/1573/">
+    <img src="https://imgs.xkcd.com/comics/cyberintelligence.png" alt="Cyberintelligence" width="520" />
   </a>
-  <p><strong>xkcd Survey</strong> · xkcd #1572 · 2015-09-01</p>
-  <p><sub>The xkcd Survey: Big Data for a Big Planet</sub></p>
+  <p><strong>Cyberintelligence</strong> · xkcd #1573 · 2015-09-04</p>
+  <p><sub>We had gathered that raw information, but had yet to put it all together.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
