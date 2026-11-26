@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1353/">
-    <img src="https://imgs.xkcd.com/comics/heartbleed.png" alt="Heartbleed" width="520" />
+  <a href="https://xkcd.com/1132/">
+    <img src="https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png" alt="Frequentists vs. Bayesians" width="520" />
   </a>
-  <p><strong>Heartbleed</strong> · xkcd #1353 · 2014-04-09</p>
-  <p><sub>I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.</sub></p>
+  <p><strong>Frequentists vs. Bayesians</strong> · xkcd #1132 · 2012-11-09</p>
+  <p><sub>&#x27;Detector! What would the Bayesian statistician say if I asked him whether the--&#x27; [roll] &#x27;I AM A NEUTRINO DETECTOR, NOT A LABYRINTH GUARD. SERIOUSLY, DID YOUR BRAIN FALL OUT?&#x27; [roll] &#x27;... yes.&#x27;</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
