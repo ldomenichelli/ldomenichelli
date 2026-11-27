@@ -28,10 +28,10 @@ This profile is where I share research code, experiments, and side projects.
 <!-- DAILY-COMIC-START -->
 <div align="center">
   <h3>📅 XKCD of the day</h3>
-  <a href="https://xkcd.com/1132/">
-    <img src="https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png" alt="Frequentists vs. Bayesians" width="520" />
+  <a href="https://xkcd.com/1133/">
+    <img src="https://imgs.xkcd.com/comics/up_goer_five.png" alt="Up Goer Five" width="520" />
   </a>
-  <p><strong>Frequentists vs. Bayesians</strong> · xkcd #1132 · 2012-11-09</p>
-  <p><sub>&#x27;Detector! What would the Bayesian statistician say if I asked him whether the--&#x27; [roll] &#x27;I AM A NEUTRINO DETECTOR, NOT A LABYRINTH GUARD. SERIOUSLY, DID YOUR BRAIN FALL OUT?&#x27; [roll] &#x27;... yes.&#x27;</sub></p>
+  <p><strong>Up Goer Five</strong> · xkcd #1133 · 2012-11-12</p>
+  <p><sub>Another thing that is a bad problem is if you&#x27;re flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won&#x27;t go to space today, or maybe ever.</sub></p>
 </div>
 <!-- DAILY-COMIC-END -->
